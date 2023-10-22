@@ -1,0 +1,228 @@
+ Volume in drive F is 04-5TBX
+ Volume Serial Number is BCB6-AB9B
+
+ Directory of F:\5TBX_PassPort\00_PIXX n VIDS_XXX\00_Anivid\00_Others
+
+09/07/2023  10:26 am    <DIR>          .
+09/07/2023  10:26 am    <DIR>          ..
+24/04/2022  04:07 pm    <DIR>          2013_11_26 - ASm Shuttle Bus (Repoerting for Duty)
+24/04/2022  04:07 pm    <DIR>          2013_11_28 - Butterflies in my Stomach
+24/04/2022  04:07 pm    <DIR>          2013_11_29 - Reporting for Duty
+24/04/2022  04:07 pm    <DIR>          2013_12_14 - Repoerting for Duty @ Bday from Botanical
+24/04/2022  04:07 pm    <DIR>          2013_12_14 - Reporting Yishun MRT
+24/04/2022  04:07 pm    <DIR>          2013_12_16 - Reportin for Duty (Punta kita Che2 and Buy @ Coldstorage and Ticket)
+24/04/2022  04:07 pm    <DIR>          2013_12_17 - Reporting for Duty (Going Pinas)
+24/04/2022  04:07 pm    <DIR>          2014_01_03 - Reporting for Duty (My Small Library @ Bacood)
+24/04/2022  04:07 pm    <DIR>          2014_01_13 - Reporting for Duty (ASM after Pinas)
+24/04/2022  04:07 pm    <DIR>          2014_01_14 - Reporting for Duty (Basket from Vendor)
+24/04/2022  04:07 pm    <DIR>          2014_01_22 - ASM Kantin
+24/04/2022  04:07 pm    <DIR>          2014_01_23 - Reporting for Duty
+24/04/2022  04:07 pm    <DIR>          2014_01_24 - Skype @ ASM & KK
+24/04/2022  04:07 pm    <DIR>          2014_02_03 - Passing City Square
+24/04/2022  04:07 pm    <DIR>          2014_02_04 - Pass by City Sq
+24/04/2022  04:07 pm    <DIR>          2014_02_09 - Drinks after Photoshoot
+24/04/2022  04:07 pm    <DIR>          2014_02_11 - @ Broadway
+24/04/2022  04:07 pm    <DIR>          2014_02_12 - ASM Kalokohan
+24/04/2022  04:07 pm    <DIR>          2014_02_13 - Reporting for Duty @ ASM
+24/04/2022  04:07 pm    <DIR>          2014_02_22 - Whampoa Router
+24/04/2022  04:07 pm    <DIR>          2014_03_11 - Skype
+24/04/2022  04:07 pm    <DIR>          2014_03_15 - Room @ Blk356
+24/04/2022  04:07 pm    <DIR>          2014_03_26 - Chew IC
+24/04/2022  04:07 pm    <DIR>          2014_03_28 - Skype
+24/04/2022  04:07 pm    <DIR>          2014_03_29 - Faces in Hue BTS
+24/04/2022  04:07 pm    <DIR>          2014_03_30 - Faces in Hue
+24/04/2022  04:07 pm    <DIR>          2014_04_03 - FB chat
+24/04/2022  04:07 pm    <DIR>          2014_04_11 - Dont be sad ur prince will come photo
+24/04/2022  04:07 pm    <DIR>          2014_04_23 - He Asked, She Said Yes
+24/04/2022  04:07 pm    <DIR>          2014_04_23 - My Logbook
+24/04/2022  04:07 pm    <DIR>          2014_05_10 - Reporting For Duty
+24/04/2022  04:07 pm    <DIR>          2014_05_11 - Reportingfor Duty
+24/04/2022  04:07 pm    <DIR>          2014_05_12 - Reportingfor Duty
+24/04/2022  04:07 pm    <DIR>          2014_06_08 - Orchard (Reporting for Duty)
+24/04/2022  04:07 pm    <DIR>          2014_06_10 - @ Novena Booksale
+24/04/2022  04:07 pm    <DIR>          2014_07_14 - Skype @ Brattany Banyo
+24/04/2022  04:07 pm    <DIR>          2014_07_15 - Skype @ Bacood
+24/04/2022  04:08 pm    <DIR>          2014_09_14 - Block 736
+24/04/2022  04:08 pm    <DIR>          2014_09_21 - MC Reporting for Duty
+24/04/2022  04:08 pm    <DIR>          2014_09_21 - Reporting Block 736
+24/04/2022  04:08 pm    <DIR>          2014_09_27 - Reporting Karaoke
+24/04/2022  04:08 pm    <DIR>          2014_10_05 - Block 736 & ASM Drawer
+24/04/2022  04:08 pm    <DIR>          2014_11_08 - Block 736
+24/04/2022  04:08 pm    <DIR>          2014_12_03 - ASM
+24/04/2022  04:08 pm    <DIR>          2014_12_05 - Whatsapp Seletar Notes
+24/04/2022  04:08 pm    <DIR>          2014_12_06 - City Square
+24/04/2022  04:08 pm    <DIR>          2014_12_07 - Front o Blk 736
+24/04/2022  04:08 pm    <DIR>          2014_12_21 - Going Pinas (passport Holder)
+24/04/2022  04:08 pm    <DIR>          2015-05-12 - Skype Screenshot
+24/04/2022  04:08 pm    <DIR>          2015_01_08 - @ Recto Pinas
+24/04/2022  04:08 pm    <DIR>          2015_01_10 - @ Antipolo Sunrise
+24/04/2022  04:08 pm    <DIR>          2015_01_16 - Yishun Busstop Sunrise
+24/04/2022  04:08 pm    <DIR>          2015_01_18 - Sunset Going to Woodlands Mass
+24/04/2022  04:08 pm    <DIR>          2015_01_21 - ASM Sunshine
+24/04/2022  04:08 pm    <DIR>          2015_01_23 - Yishun Bus Stop
+24/04/2022  04:08 pm    <DIR>          2015_02_08 - Sunset going to Mass
+24/04/2022  04:08 pm    <DIR>          2015_02_17 - ASM Sunshine
+24/04/2022  04:08 pm    <DIR>          2015_02_19 - Reporting For Duty
+12/03/2015  06:18 pm    <DIR>          2015_02_20 - Reporting For Duty
+24/04/2022  04:08 pm    <DIR>          2015_02_21 - Reporting For Duty
+24/04/2022  04:08 pm    <DIR>          2015_02_22 - After Sunday Mass @ Yishun
+24/04/2022  04:08 pm    <DIR>          2015_03_09 - Sunrise @ Yishun Bus stop
+24/04/2022  04:08 pm    <DIR>          2015_03_10 - Sunrise @ Yishun Bus stop
+24/04/2022  04:08 pm    <DIR>          2015_03_11 - Morning BusStop to ASM and Finger Cut
+24/04/2022  04:08 pm    <DIR>          2015_04_27 - 2014-02-16 Screenshot of AMK Ciniplex
+24/04/2022  04:08 pm    <DIR>          2015_05_04 - Whatsapp Screenshot
+24/04/2022  04:08 pm    <DIR>          2015_05_05 - Pasalubong fromPinas
+24/04/2022  04:08 pm    <DIR>          2015_05_13 - ASM Lab Bench
+24/04/2022  04:08 pm    <DIR>          2015_06_28 - Skype Screenshot
+24/04/2022  04:08 pm    <DIR>          2015_07_03 - Whatsapp & Skype Screenshot
+24/04/2022  04:08 pm    <DIR>          2015_07_31 - Youtube Channel Screenshot
+24/04/2022  04:08 pm    <DIR>          2015_08_18 - Whatsapp Screenshot
+24/04/2022  04:08 pm    <DIR>          2015_08_19 - Whatsapp Screenshot
+24/04/2022  04:08 pm    <DIR>          2015_08_20 - Whatsapp Screenshot
+24/04/2022  04:08 pm    <DIR>          2015_11_11 - Whatsapp Hand
+24/04/2022  04:08 pm    <DIR>          2015_11_30 - Whatsapp Lunch
+24/04/2022  04:08 pm    <DIR>          2016_03_10 - Whatsapp Japan
+24/04/2022  04:08 pm    <DIR>          2016_03_14 - Whatsapp PR application
+24/04/2022  04:08 pm    <DIR>          2016_04_04 - Whatsapp Hotel
+24/04/2022  04:08 pm    <DIR>          2016_04_11 - Whatsapp Japan
+24/04/2022  04:08 pm    <DIR>          2016_04_19 - Solo yishun GV Movie watch
+24/04/2022  04:08 pm    <DIR>          2016_05_03 - Baon sa KK
+24/04/2022  04:08 pm    <DIR>          2016_05_09 - Voting sa Pinas
+24/04/2022  04:08 pm    <DIR>          2016_05_11 - Divina Lunch w Arah n Eugene
+24/04/2022  04:08 pm    <DIR>          2016_05_16 - Morning Bed
+24/04/2022  04:08 pm    <DIR>          2016_05_18 - Royal Hotel Booking
+24/04/2022  04:08 pm    <DIR>          2016_05_19 - Whatsapp Hotel
+24/04/2022  04:08 pm    <DIR>          2016_05_20 - Royal Hotel BF
+24/04/2022  04:08 pm    <DIR>          2016_05_24 - Sexy Selfie
+24/04/2022  04:08 pm    <DIR>          2016_05_27 - kainan @ KK
+24/04/2022  04:08 pm    <DIR>          2016_05_30 - To Whampoa
+24/04/2022  04:08 pm    <DIR>          2016_05_31 - BF and Selfie @ Bahay
+24/04/2022  04:08 pm    <DIR>          2016_06_01 - Pabaon
+24/04/2022  04:08 pm    <DIR>          2016_06_03 - Selfie @ bahay
+24/04/2022  04:08 pm    <DIR>          2016_06_08 - BF and Dinner
+24/04/2022  04:08 pm    <DIR>          2016_06_13 - Food
+24/04/2022  04:08 pm    <DIR>          2016_06_15 - Pabaon
+24/04/2022  04:08 pm    <DIR>          2016_06_17 - Toiletries
+24/04/2022  04:08 pm    <DIR>          2016_06_20 - BF and Lunch @ KK
+24/04/2022  04:08 pm    <DIR>          2016_06_20 - Whatsapp Duty
+24/04/2022  04:08 pm    <DIR>          2016_06_22 - Whatsapp
+24/04/2022  04:08 pm    <DIR>          2016_06_23 - Whatsapp Allergy
+24/04/2022  04:08 pm    <DIR>          2016_06_24 - Whatsapp Allergy
+24/04/2022  04:08 pm    <DIR>          2016_06_25 - Whatsapp
+24/04/2022  04:08 pm    <DIR>          2016_07_01 - Buni and Sampayan
+24/04/2022  04:08 pm    <DIR>          2016_07_01 - Whatsapp Duty
+24/04/2022  04:08 pm    <DIR>          2016_07_05 - Pabaon
+24/04/2022  04:08 pm    <DIR>          2016_07_05 - Whatsapp Whampoa
+24/04/2022  04:08 pm    <DIR>          2016_07_07 - Selfie and Baon
+24/04/2022  04:08 pm    <DIR>          2016_07_07 - Whatsapp Sexy
+24/04/2022  04:08 pm    <DIR>          2016_07_13 - To Safra OCC check-in
+24/04/2022  04:08 pm    <DIR>          2016_07_13 - Whatsapp
+24/04/2022  04:08 pm    <DIR>          2016_08_03 - Jollibee Dinner
+24/04/2022  04:08 pm    <DIR>          2016_09_16 - Jollibee Lunch
+24/04/2022  04:08 pm    <DIR>          2016_09_19 - Waiting @ 736
+24/04/2022  04:08 pm    <DIR>          2016_09_28 - Electronics Eyes
+24/04/2022  04:08 pm    <DIR>          2016_09_30 - Electronics Eyes
+24/04/2022  04:08 pm    <DIR>          2016_10_06 - Whampoa Taxi Lunch
+24/04/2022  04:08 pm    <DIR>          2016_10_07 - Pabaon
+24/04/2022  04:08 pm    <DIR>          2016_10_07 - Whampoa Taxi Lunch
+24/04/2022  04:08 pm    <DIR>          2016_10_12 - broken heart stirrer
+24/04/2022  04:08 pm    <DIR>          2016_11_09 - Whampoa Lunch
+24/04/2022  04:08 pm    <DIR>          2017_08_15 - Kain sa Park
+24/04/2022  04:08 pm    <DIR>          2017_10_10 - Pabaon
+24/04/2022  04:08 pm    <DIR>          2017_10_11 - Pabaon
+24/04/2022  04:08 pm    <DIR>          2017_10_12 - Pabaon
+24/04/2022  04:08 pm    <DIR>          2017_10_20 - Pabaon
+24/04/2022  04:08 pm    <DIR>          2017_12_06 - Happy Anniversarry
+24/04/2022  04:08 pm    <DIR>          2017_12_07 - Regalo and Lunch (Bird Sex)
+24/04/2022  04:08 pm    <DIR>          2017_12_15 - Pabaon
+24/04/2022  04:08 pm    <DIR>          2017_12_18 - Pabaon n Sdcard
+23/05/2023  09:58 pm    <DIR>          2020_09_08 - Vendo
+24/04/2022  04:08 pm    <DIR>          2021_03_11 - Mipad charging
+24/04/2022  04:00 pm    <DIR>          2022_01_31 - TV remote
+24/04/2022  04:08 pm    <DIR>          2022_03_29 - OCBC Kupit calculation
+24/04/2022  04:08 pm    <DIR>          2022_03_30 - Linis Carpet
+05/06/2023  12:56 pm    <DIR>          2022_12_05 - ASM Lab (ibidins)
+08/12/2022  07:46 am    <DIR>          2022_12_06 - Ani Give Plant
+08/12/2022  07:45 am    <DIR>          2022_12_07 - Ani Drone
+06/07/2023  08:04 am    <DIR>          2023_01_17 - SG Bike Free Voucher
+24/01/2023  09:31 am    <DIR>          2023_01_20c - Kamuka Tet @ Bus Int
+09/04/2023  02:12 pm    <DIR>          2023_01_24 - IPCAM Screen Recording @ Porto
+05/07/2023  10:12 pm    <DIR>          2023_01_25 - Hair Trimmers
+06/07/2023  12:53 pm    <DIR>          2023_01_27 - ASMMeetingCalendar
+08/07/2023  05:51 pm    <DIR>          2023_01_30b - My Korean Tea
+08/07/2023  05:51 pm    <DIR>          2023_01_30c - Meditate
+08/07/2023  05:55 pm    <DIR>          2023_02_02 - Steps the day before laboy
+02/04/2023  07:18 pm    <DIR>          2023_02_13 - 317 Cat in 318A Lift
+08/07/2023  06:04 pm    <DIR>          2023_02_16 - 316 Meditate
+08/07/2023  06:04 pm    <DIR>          2023_02_21 - HAnapSchoolDior@Lunch WaterPark@PM
+08/07/2023  06:04 pm    <DIR>          2023_02_22 - PencilCase For Dior
+08/07/2023  06:06 pm    <DIR>          2023_02_23 - Gundam Where_I_Hide_S9
+08/07/2023  08:52 pm    <DIR>          2023_03_16 - ASM AL
+08/07/2023  08:55 pm    <DIR>          2023_03_22 - AL
+15/06/2023  12:48 pm    <DIR>          2023_03_28 - BrokenWatchStrap
+08/07/2023  05:23 pm    <DIR>          2023_03_29 - Ulap and ASMPT Box
+08/07/2023  08:58 pm    <DIR>          2023_03_31 - Citron Tea @ ASMPT
+03/04/2023  08:46 pm    <DIR>          2023_04_03 - Greenwalk Basura
+08/07/2023  05:15 pm    <DIR>          2023_04_04 - PortableHDD
+08/07/2023  05:14 pm    <DIR>          2023_04_05 - CitronIngridients
+08/07/2023  05:11 pm    <DIR>          2023_04_06 - Citron
+09/04/2023  12:40 pm    <DIR>          2023_04_06 - FB Screenshot Usap Nanay
+15/06/2023  01:06 pm    <DIR>          2023_04_10 - Dior Toy Suggestions
+15/06/2023  01:07 pm    <DIR>          2023_04_11 - Plug Adapter
+05/07/2023  09:59 pm    <DIR>          2023_04_12 - CitronTea AirportProcess NP NotDior ValName
+05/07/2023  10:07 pm    <DIR>          2023_04_13 - ASMCovidEmail ASMRain
+08/07/2023  05:01 pm    <DIR>          2023_04_18 - GingerMintDrink
+08/07/2023  05:01 pm    <DIR>          2023_04_19 - DiorGrapeJus
+28/04/2023  05:58 am    <DIR>          2023_04_20 - ToysForDior
+08/07/2023  08:58 pm    <DIR>          2023_04_21 - ASM-AL
+08/07/2023  08:59 pm    <DIR>          2023_04_24 - ASM ReplacementLeaveReminder
+08/07/2023  04:28 pm    <DIR>          2023_04_27 - Ani fone MACAddress
+08/07/2023  04:26 pm    <DIR>          2023_04_28 - Leave
+08/07/2023  09:00 pm    <DIR>          2023_05_02 - Training Leave Mat KickBoard
+08/07/2023  03:32 pm    <DIR>          2023_05_11 - CarBasura
+08/07/2023  03:32 pm    <DIR>          2023_05_12 - Rack
+08/07/2023  03:26 pm    <DIR>          2023_05_15 - AL IceCreamShop
+14/06/2023  01:06 pm    <DIR>          2023_05_16 - Nissin
+08/07/2023  03:20 pm    <DIR>          2023_05_17 - ASMPT Fire Drill
+08/07/2023  03:16 pm    <DIR>          2023_05_18 - AniGifts LateUwe
+08/07/2023  03:16 pm    <DIR>          2023_05_19 - BF
+13/06/2023  05:41 pm    <DIR>          2023_05_19 - Screenshots IPCam
+13/06/2023  05:41 pm    <DIR>          2023_05_22 - Screenshots IPCam
+08/07/2023  12:14 pm    <DIR>          2023_05_23 - Lunch Earpods GWPark Basura Meditation DiorLookAlike Dinner
+08/07/2023  12:09 pm    <DIR>          2023_05_24 - Rack Storage
+08/07/2023  11:52 am    <DIR>          2023_05_26 - MC InterGift ChairBasura Meditation
+08/07/2023  11:42 am    <DIR>          2023_05_27 - Herbal Soup Tables
+08/07/2023  11:38 am    <DIR>          2023_05_29 - OldFlowerGift Snack InternPPT WaterPark SmallStool Luggage Meditate
+30/05/2023  06:22 am    <DIR>          2023_05_29 - Screenshots IPcam
+08/07/2023  11:36 am    <DIR>          2023_05_30 - ASM Kantin Menu
+08/07/2023  11:31 am    <DIR>          2023_05_31 - Jus DiorCar Earphones Lunch Meditation Dinner
+08/07/2023  11:26 am    <DIR>          2023_06_01a - ASMwork Earphones & Lunch
+08/07/2023  11:26 am    <DIR>          2023_06_01b - Earphones
+08/07/2023  11:12 am    <DIR>          2023_06_05 - Lunch GW-PG 318A Dinner
+08/07/2023  10:42 am    <DIR>          2023_06_06 - ASMBF Pens BasuraBike Dinner
+13/06/2023  04:06 pm    <DIR>          2023_06_06 - BF Intern table SmallBike Dinner
+09/07/2023  10:25 am    <DIR>          2023_06_07 - Lunch Meditation & Dinner
+08/07/2023  10:37 am    <DIR>          2023_06_08 - Lunch & PM Snack
+08/07/2023  10:34 am    <DIR>          2023_06_09 - BF, Lunch, VC & Meditation
+08/07/2023  10:20 am    <DIR>          2023_06_12 - Afternoon Snack
+08/07/2023  10:18 am    <DIR>          2023_06_13 - ASMTable Leave BP
+08/07/2023  10:14 am    <DIR>          2023_06_14 - ASMBF 318Lunch PMSnacks
+08/07/2023  09:28 am    <DIR>          2023_06_15 - ASM Deadline SCH&PCB BF EarPhone 610Basura&Toilet & Tenga
+08/07/2023  09:28 am    <DIR>          2023_06_16 - ASMBF & FunnsySGNumber
+05/07/2023  09:49 pm    <DIR>          2023_06_19 - BF and Tuna
+05/07/2023  09:47 pm    <DIR>          2023_06_20 - MB Logsheet PMSnack
+21/06/2023  07:25 am    <DIR>          2023_06_20 - Screenshot ICA to Yishun
+05/07/2023  09:37 pm    <DIR>          2023_06_21 - 318AKeys DiorWeekdays Meditate
+08/07/2023  07:57 am    <DIR>          2023_06_23 - ASMBF LRLogSheet Meditate
+08/07/2023  07:53 am    <DIR>          2023_06_26 - ASMPTBF OutlookCalendar Pantry Meditation
+08/07/2023  07:20 am    <DIR>          2023_06_27 - Lunch @ 318A
+08/07/2023  07:16 am    <DIR>          2023_06_28 - NP FunToast KiddiePalace
+08/07/2023  07:06 am    <DIR>          2023_06_30 - Vendo Meditate
+07/07/2023  08:11 pm    <DIR>          2023_07_04 - CitronTeaJar Jacket Meditation
+08/07/2023  07:48 am    <DIR>          2023_07_06 - ASMMeeting DiorStickers
+08/07/2023  07:30 am    <DIR>          2023_07_07 - MelonMilk DCIMToDo Meditate
+09/07/2023  09:34 am    <DIR>          2023_07_08a - 318A Window @ SunnyOutside
+09/07/2023  09:34 am    <DIR>          2023_07_08b - KTPH Park @ KidBackRiding
+09/07/2023  10:26 am                 0 dir.txt
+               1 File(s)              0 bytes
+             220 Dir(s)  687,542,427,648 bytes free
