@@ -1,0 +1,1317 @@
+ Volume in drive F is 04-5TBX
+ Volume Serial Number is BCB6-AB9B
+
+ Directory of F:\5TBX_PassPort\00_PIXX n VIDS_XXX\00_Anivid\00_Folders
+
+22/10/2023  11:02 pm    <DIR>          .
+22/10/2023  11:02 pm    <DIR>          ..
+05/06/2023  08:49 pm    <DIR>          2013_10_30 - Yishun to KK Direction
+05/06/2023  08:49 pm    <DIR>          2013_11_02a - Sfac
+05/06/2023  08:49 pm    <DIR>          2013_11_02b - After Sfac (Lunch)
+05/06/2023  08:49 pm    <DIR>          2013_11_02c - KK to Tessensohn Direction
+05/06/2023  08:49 pm    <DIR>          2013_11_04a - Umagang Dalaw waiting sa tapat ng Bus Stop
+05/06/2023  08:50 pm    <DIR>          2013_11_04b - Unang Dalaw
+05/06/2023  08:50 pm    <DIR>          2013_11_05 - Gawa ng Album
+05/06/2023  08:50 pm    <DIR>          2013_11_07a - FB
+05/06/2023  08:50 pm    <DIR>          2013_11_07b - Unang Group Date at Naligaw din
+05/06/2023  08:50 pm    <DIR>          2013_11_09 - Luto and Tsibug Kila Red
+05/06/2023  08:50 pm    <DIR>          2013_11_12 - Mga Unang Chat MC and punta ng Jurong
+05/06/2023  08:51 pm    <DIR>          2013_11_13a - Go Kapilya at Kape Bahay
+05/06/2023  08:50 pm    <DIR>          2013_11_13b - 857 Last Trip
+05/06/2023  08:51 pm    <DIR>          2013_11_14a - FB Chat
+05/06/2023  08:51 pm    <DIR>          2013_11_14b - Kape Kape sa MBS
+05/06/2023  08:51 pm    <DIR>          2013_11_15a - Pasa
+05/06/2023  08:51 pm    <DIR>          2013_11_15b - NamePhoto
+05/06/2023  08:51 pm    <DIR>          2013_11_18a - @ ASM Lab
+05/06/2023  08:51 pm    <DIR>          2013_11_18b - Dining ng Tessensohn
+05/06/2023  08:51 pm    <DIR>          2013_11_20a - Kape at Dubai Icon Buildings
+05/06/2023  08:51 pm    <DIR>          2013_11_20b - FB Chat
+05/06/2023  08:51 pm    <DIR>          2013_11_20c - Pizza hut @ City Square
+05/06/2023  08:51 pm    <DIR>          2013_11_21a - Flower from Tessenson garden
+05/06/2023  08:51 pm    <DIR>          2013_11_21b - Naghatid sa KK Hosp Pauwe na
+05/06/2023  08:51 pm    <DIR>          2013_11_22a - Raspi Message
+05/06/2023  08:51 pm    <DIR>          2013_11_22b - Victorni Divina Website
+05/06/2023  08:51 pm    <DIR>          2013_11_22c - ASM Table Cadies & Galaxy Tab3 Price
+05/06/2023  08:51 pm    <DIR>          2013_11_22d - Blue Stuffed Toy Rose
+05/06/2023  08:53 pm    <DIR>          2013_11_23a - To Bukit Timah
+05/06/2023  08:53 pm    <DIR>          2013_11_23b - Riles
+06/06/2023  10:58 pm    <DIR>          2013_11_23c - Bukit Timah
+05/06/2023  08:53 pm    <DIR>          2013_11_24a - Nov Calendar
+05/06/2023  08:53 pm    <DIR>          2013_11_24b - Reporting, Going to Tessensohn from Yishun
+06/06/2023  10:54 pm    <DIR>          2013_11_24c - My shoes
+05/06/2023  08:53 pm    <DIR>          2013_11_24d - KFC at Orchard then Taxi pakila Tof
+06/06/2023  10:55 pm    <DIR>          2013_11_24e - Tampines
+06/06/2023  10:54 pm    <DIR>          2013_11_24f - iMax Movie
+05/06/2023  08:53 pm    <DIR>          2013_11_26 - Meet C Boss Ernesto
+05/06/2023  08:54 pm    <DIR>          2013_11_29 - Selfie @ ASM After Lunch & Working Time & Tipid Meals
+06/06/2023  11:12 pm    <DIR>          2013_11_30 - Bday Riles
+05/06/2023  09:14 pm    <DIR>          2013_12_01a - Bday @ Tessensohn
+05/06/2023  09:21 pm    <DIR>          2013_12_01b - Bday Cake
+05/06/2023  09:21 pm    <DIR>          2013_12_02a - Bday Gift Joke
+05/06/2023  09:21 pm    <DIR>          2013_12_02b - Waiting @ KK Hospital
+05/06/2023  09:21 pm    <DIR>          2013_12_02c - Bday Cake
+08/06/2023  08:00 am    <DIR>          2013_12_03 - Sofa Shoot
+05/06/2023  09:21 pm    <DIR>          2013_12_05 - Ipad from Opis to Tessensohn
+05/06/2023  09:21 pm    <DIR>          2013_12_06a - ASm Kantin and Fone Bumper (reporting for Duty)
+05/06/2023  09:21 pm    <DIR>          2013_12_06b - Tessensohn to Ikea Direction
+05/06/2023  09:21 pm    <DIR>          2013_12_06c - Ipad picpic Divina
+08/06/2023  08:00 am    <DIR>          2013_12_07 - Sofa Shoot
+05/06/2023  09:22 pm    <DIR>          2013_12_08 - Sala Shoot
+05/06/2023  09:22 pm    <DIR>          2013_12_09 - @ ASM - Floss, Candies, and Planner Giveaway
+05/06/2023  09:22 pm    <DIR>          2013_12_11 - Sa Bed Lang (Reporting for Duty)
+08/06/2023  08:02 am    <DIR>          2013_12_12a - Morning Sexy Photoshoot
+05/06/2023  09:23 pm    <DIR>          2013_12_12b - Kapilya
+05/06/2023  09:22 pm    <DIR>          2013_12_12c - HHWS Sa Bus from Kapilya
+01/10/2023  03:40 pm    <DIR>          2013_12_12d - City Square
+05/06/2023  09:25 pm    <DIR>          2013_12_13a - MidNight Sexy Photoshoot
+05/06/2023  09:23 pm    <DIR>          2013_12_13b - LP to Liang Court Nagpasama
+01/10/2023  03:40 pm    <DIR>          2013_12_13c - City Square
+05/06/2023  09:25 pm    <DIR>          2013_12_13d - Tsinelas
+05/06/2023  09:30 pm    <DIR>          2013_12_14a - Morning Sexy Photoshoot
+05/06/2023  09:27 pm    <DIR>          2013_12_14b - Going Pinas
+05/06/2023  09:30 pm    <DIR>          2013_12_15 - FB Chat (missumuch)
+05/06/2023  09:30 pm    <DIR>          2013_12_16 - Skype
+05/06/2023  09:30 pm    <DIR>          2014_01_14 - Wrong Send
+03/09/2023  12:50 pm    <DIR>          2014_01_18 - Ice Art
+05/06/2023  09:48 pm    <DIR>          2014_01_19 - Photoshoot w Ilzira @ Fort Canning
+05/06/2023  09:48 pm    <DIR>          2014_01_23 - Skype
+03/09/2023  12:53 pm    <DIR>          2014_01_24 - Skype and Torrent
+05/06/2023  09:48 pm    <DIR>          2014_01_25 - Pasir Ris Drive to Tessensohn
+05/06/2023  09:48 pm    <DIR>          2014_01_26a - Fotoshoot Kila Mama Bear
+05/06/2023  08:39 pm    <DIR>          2014_01_26b - Kilig kay Papa Piolo kila Mama Bear
+05/06/2023  08:39 pm    <DIR>          2014_01_26c - KK to Telok Blangah
+05/06/2023  08:39 pm    <DIR>          2014_01_29a - Nudeshoot
+05/06/2023  08:39 pm    <DIR>          2014_01_29b - Skype cannot call
+05/06/2023  08:39 pm    <DIR>          2014_01_29c - Skype
+05/06/2023  08:40 pm    <DIR>          2014_01_30a - Photos will be deleted
+05/06/2023  08:40 pm    <DIR>          2014_01_30b - Chinatown
+05/06/2023  08:40 pm    <DIR>          2014_01_31 - Orchard
+05/06/2023  08:40 pm    <DIR>          2014_01_31 - Sexy Photoshoot
+05/06/2023  08:40 pm    <DIR>          2014_02_01a - Suot Pa swimming
+05/06/2023  08:40 pm    <DIR>          2014_02_01b - Chinatown Pixx @ FB
+05/06/2023  08:40 pm    <DIR>          2014_02_02 - Chinatown Pixx n FB Stat
+05/06/2023  08:40 pm    <DIR>          2014_02_03a - Divina Photo Frame @ Tessensohn
+05/06/2023  08:41 pm    <DIR>          2014_02_03b - Pedecure @ LP & Dragon Dance
+05/06/2023  08:41 pm    <DIR>          2014_02_04 - Going back Yishun (City Square)
+05/06/2023  08:41 pm    <DIR>          2014_02_05a - From Tessensohn Pauwe ng Umaga
+05/06/2023  08:41 pm    <DIR>          2014_02_05b - Chinatown Pixx @ FB
+05/06/2023  08:41 pm    <DIR>          2014_02_06a - Red Rose
+05/06/2023  08:41 pm    <DIR>          2014_02_06b - FB cannot tag
+05/06/2023  08:41 pm    <DIR>          2014_02_06c - Khalsa Football
+05/06/2023  08:41 pm    <DIR>          2014_02_07 - Date @ Ishimura - Tessensohn
+05/06/2023  08:41 pm    <DIR>          2014_02_08 - @ Tessensohn Bed & Sala
+05/06/2023  08:49 pm    <DIR>          2014_02_09a - Sexy Shoot
+05/06/2023  08:49 pm    <DIR>          2014_02_09b - Fotoshoot @ Henderson Waves
+05/06/2023  08:41 pm    <DIR>          2014_02_09c - Divina w CAP @ Hawker
+05/06/2023  08:41 pm    <DIR>          2014_02_09d - Drinks after Photoshoot
+24/04/2022  08:35 am    <DIR>          2014_02_13 - FB Stat Comments
+24/04/2022  08:36 am    <DIR>          2014_02_14a - Screenshot
+03/09/2023  01:28 pm    <DIR>          2014_02_14b - Lower Selatar
+24/04/2022  08:36 am    <DIR>          2014_02_15a - Tessensohn Nude Bihis to Jurong Swimming
+03/09/2023  01:24 pm    <DIR>          2014_02_15b - Swiming Jurong West
+24/04/2022  08:36 am    <DIR>          2014_02_16a - Tessensohn Sofa Napping
+24/04/2022  08:36 am    <DIR>          2014_02_16b - Youtube Upload Evidence
+24/04/2022  08:36 am    <DIR>          2014_02_17 - NeoVine escapade in SG
+24/04/2022  08:36 am    <DIR>          2014_02_17 - Screenshot of 3BFs
+24/04/2022  08:36 am    <DIR>          2014_02_17 - Tipid Meals Joke and ASM Reporting & Updates
+24/04/2022  08:36 am    <DIR>          2014_02_17 - Youtube Accnt
+24/04/2022  08:37 am    <DIR>          2014_02_18a - Reporting and Update @ ASM & Going Home
+03/09/2023  03:03 pm    <DIR>          2014_02_18b - Night Nude Shot
+24/04/2022  08:37 am    <DIR>          2014_02_19 - Tipid Meals Joke @ ASM Kantin @ Dinner
+24/04/2022  08:37 am    <DIR>          2014_02_21a - Reporting @ ASM Lunch
+24/04/2022  08:37 am    <DIR>          2014_02_21b - Upper Seletar
+04/09/2023  07:08 am    <DIR>          2014_02_22a - Swimming @ Jurong West
+04/09/2023  07:08 am    <DIR>          2014_02_22b - my PIC @ Pasta Mania w DIVINA
+24/04/2022  08:37 am    <DIR>          2014_02_23a - FB Chat
+04/09/2023  07:26 am    <DIR>          2014_02_23b - Nood Sine
+24/04/2022  08:37 am    <DIR>          2014_02_24 - Reporting @ ASM Kantin Lunch, ASM Dinner, Sunset and Tshirt
+24/04/2022  08:37 am    <DIR>          2014_02_25 - FB Chat
+24/04/2022  08:38 am    <DIR>          2014_02_26 - Reporting @ ASM Lunch
+24/04/2022  08:38 am    <DIR>          2014_02_27 - Reporting @ ASM BF Choco and Lunch and Showing  PCN
+24/04/2022  08:38 am    <DIR>          2014_02_28 - FB Chat
+24/04/2022  08:38 am    <DIR>          2014_03_01 - Going Tessensohn @ Bus 857
+24/04/2022  08:38 am    <DIR>          2014_03_02a - FB Chat
+24/04/2022  08:38 am    <DIR>          2014_03_02b - Sunset and Guitar and Nikon and Canon
+24/04/2022  08:38 am    <DIR>          2014_03_03a - Reporting Morning Papasok n ASM Lunch
+24/04/2022  08:38 am    <DIR>          2014_03_03b - Going date @ Ishumura
+24/04/2022  08:38 am    <DIR>          2014_03_04a - FB Chat
+24/04/2022  08:38 am    <DIR>          2014_03_04b - Morning Hatid @ Bus stop
+24/04/2022  08:38 am    <DIR>          2014_03_04c - Selfie @ CR
+24/04/2022  08:38 am    <DIR>          2014_03_04d - Singapore Discovery CEnter
+24/04/2022  08:38 am    <DIR>          2014_03_05a - Showing Around ASM Tennis Court
+24/04/2022  08:38 am    <DIR>          2014_03_05b - Looking For Shoes
+24/04/2022  08:38 am    <DIR>          2014_03_05c - FB Chat
+04/09/2023  07:15 am    <DIR>          2014_03_05d - Checking Yishun Stadium
+24/04/2022  08:38 am    <DIR>          2014_03_06a - Selfie sa CR gamit ung giv nya Long Sleeves
+24/04/2022  08:38 am    <DIR>          2014_03_06b - FB Chat
+10/11/2022  01:03 am    <DIR>          2014_03_06c - Tessensohn Photoshoot
+24/04/2022  08:38 am    <DIR>          2014_03_07a - EBS and Showing around ASM
+24/04/2022  08:38 am    <DIR>          2014_03_07b - Flower and Chocolates
+24/04/2022  08:38 am    <DIR>          2014_03_07c - Planning to McRitchie
+24/04/2022  08:40 am    <DIR>          2014_03_08a - MacRitchie Trekking
+24/04/2022  08:40 am    <DIR>          2014_03_08b - Money Transfer
+24/04/2022  08:40 am    <DIR>          2014_03_09a - My Bed @ Blk 356
+24/04/2022  08:40 am    <DIR>          2014_03_09b - Orchard then Movie
+24/04/2022  08:40 am    <DIR>          2014_03_10 - 3D Movi @ Cathay Cineplex
+24/04/2022  08:40 am    <DIR>          2014_03_10 - Lunch @ ASM Kantin
+04/09/2023  07:36 am    <DIR>          2014_03_10 - Selfie LongSleeves
+24/04/2022  08:40 am    <DIR>          2014_03_10 - Skype
+24/04/2022  08:40 am    <DIR>          2014_03_11 - FB Chat
+24/04/2022  08:40 am    <DIR>          2014_03_11 - Morning Poster @ Busstop, ASM collegue and Lunch
+24/04/2022  08:40 am    <DIR>          2014_03_11 - Skype
+24/04/2022  08:40 am    <DIR>          2014_03_12 - Raspi, Table and Baon @ Lunch
+24/04/2022  08:40 am    <DIR>          2014_03_13 - Papasok galing Tessensohn
+24/04/2022  08:40 am    <DIR>          2014_03_13 - Raspi, Sansosh @ Lab, Selfie @ Lab, Lunch @ Kantin, Sunset @ Kantin
+24/04/2022  08:40 am    <DIR>          2014_03_13 - Whatsapp sa Pinas
+24/04/2022  08:40 am    <DIR>          2014_03_14 - ASM Drawer, Table, Lunch and EBS
+24/04/2022  08:41 am    <DIR>          2014_03_14 - iLight
+24/04/2022  08:41 am    <DIR>          2014_03_14 - Whatsapp Ebs
+24/04/2022  08:41 am    <DIR>          2014_03_15 - Bed Shoot @ Tessensohn
+24/04/2022  08:41 am    <DIR>          2014_03_15 - Loving @ BLK 356
+24/04/2022  08:41 am    <DIR>          2014_03_16 - Busride to Yishun
+24/04/2022  08:41 am    <DIR>          2014_03_16 - Dinner
+24/04/2022  08:42 am    <DIR>          2014_03_16 - Morning Sundo, Selfie sa CR at Bus pa Yishun w Divina, Dinner sa Broadway, NTUC
+24/04/2022  08:42 am    <DIR>          2014_03_16 - Pauwe ng Yishun sa Umaga
+24/04/2022  08:42 am    <DIR>          2014_03_18a - Roster and Selfie
+09/09/2023  01:23 pm    <DIR>          2014_03_18b - Dinner @ Block 356
+24/04/2022  08:42 am    <DIR>          2014_03_19 - Ani FB Stat
+24/04/2022  08:42 am    <DIR>          2014_03_19 - Selfie FBScreenshot and Report
+24/04/2022  08:42 am    <DIR>          2014_03_20 - Sunrise from MRT from Tessensohn
+24/04/2022  08:42 am    <DIR>          2014_03_21 - Reporting From Umaga to ASM Lunch to ASM Meeting to ASM Dinner
+24/04/2022  08:42 am    <DIR>          2014_03_21 - Room @ Blk 734
+24/04/2022  08:42 am    <DIR>          2014_03_22a - House Viewing
+24/04/2022  08:42 am    <DIR>          2014_03_22b - PinoyCare Seminar
+24/04/2022  08:42 am    <DIR>          2014_03_23 - FB Chat
+24/04/2022  08:42 am    <DIR>          2014_03_23 - Hanap Haus
+24/04/2022  08:42 am    <DIR>          2014_03_23 - Hanap Haus w Divina
+24/04/2022  08:42 am    <DIR>          2014_03_23 - Yishun Park
+24/04/2022  08:42 am    <DIR>          2014_03_24 - Map to AMK kapilya
+24/04/2022  08:42 am    <DIR>          2014_03_24 - Tessensohn Sofa
+24/04/2022  08:42 am    <DIR>          2014_03_25 - Sampay @ Tessensohn
+24/04/2022  08:42 am    <DIR>          2014_03_26 - Sunlight Store
+24/04/2022  08:42 am    <DIR>          2014_03_27 - Higa Bed @ Blk 734
+24/04/2022  08:42 am    <DIR>          2014_03_28 - Cookie Cake
+24/04/2022  04:26 pm    <DIR>          2014_03_28 - FB Chat Screenshot
+24/04/2022  08:42 am    <DIR>          2014_03_30 - @ Mrt
+24/04/2022  04:26 pm    <DIR>          2014_03_30 - Ani Seminar @ Faces in Hue
+24/04/2022  08:42 am    <DIR>          2014_03_30 - Blk 734
+24/04/2022  08:42 am    <DIR>          2014_03_30 - Look Alike @ Tampines
+24/04/2022  08:42 am    <DIR>          2014_03_30 - Parrot, Blk736 and Tampines
+24/04/2022  08:42 am    <DIR>          2014_03_31 - Lots Of Birds @ Evening
+24/04/2022  08:42 am    <DIR>          2014_03_31 - Room @ Blk 734
+24/04/2022  08:42 am    <DIR>          2014_04_01 - Blk 356
+24/04/2022  08:42 am    <DIR>          2014_04_01 - FB chat and Yishun to KK Hosp
+24/04/2022  08:42 am    <DIR>          2014_04_01 - Last Day sa Blk 356
+24/04/2022  08:42 am    <DIR>          2014_04_01 - Messenger Chat
+24/04/2022  08:42 am    <DIR>          2014_04_02 - Report and Electronics
+24/04/2022  08:42 am    <DIR>          2014_04_02 - Time Check in ASM Lab
+24/04/2022  08:42 am    <DIR>          2014_04_02 - Time Check in Blk 734
+24/04/2022  08:42 am    <DIR>          2014_04_03 - My BF
+24/04/2022  08:42 am    <DIR>          2014_04_04  - S3P Training
+24/04/2022  08:42 am    <DIR>          2014_04_04 - CR
+24/04/2022  08:42 am    <DIR>          2014_04_04 - Tulog Shoot
+24/04/2022  08:42 am    <DIR>          2014_04_04 - Tutulog sa Bed
+24/04/2022  08:42 am    <DIR>          2014_04_05 - Fitting Room
+24/04/2022  08:43 am    <DIR>          2014_04_05 - Morning Loving
+24/04/2022  08:43 am    <DIR>          2014_04_05 - Quickie Lunch
+24/04/2022  08:43 am    <DIR>          2014_04_05 - Tulog Shoot
+24/04/2022  08:43 am    <DIR>          2014_04_06 - 4th month @ Breeks after Fotoshoot @ Lower Seletar
+24/04/2022  08:43 am    <DIR>          2014_04_06 - @ Lower Seletar
+24/04/2022  08:43 am    <DIR>          2014_04_07 - Morning Loving
+24/04/2022  08:43 am    <DIR>          2014_04_08 - Dinner @ Broadway & @ Tessensohn
+24/04/2022  08:43 am    <DIR>          2014_04_08 - FB Chat and Dinner @ Broadway
+24/04/2022  04:26 pm    <DIR>          2014_04_08 - FB Chat Screenshot
+24/04/2022  08:43 am    <DIR>          2014_04_08 - Messenger
+24/04/2022  08:43 am    <DIR>          2014_04_09 - FB Chat
+24/04/2022  08:43 am    <DIR>          2014_04_10 - Blk734 Change Address n Park
+24/04/2022  08:43 am    <DIR>          2014_04_11 - Dont Be Sad
+24/04/2022  08:43 am    <DIR>          2014_04_12 - @ Tessensohn Kuha mga gamit (with Faith)
+24/04/2022  08:43 am    <DIR>          2014_04_12 - Dinner @ Tessensohn
+24/04/2022  08:43 am    <DIR>          2014_04_13 - Tulog Shoot
+24/04/2022  04:26 pm    <DIR>          2014_04_14 - Ani IC
+24/04/2022  08:44 am    <DIR>          2014_04_14 - Curly Hair
+24/04/2022  08:44 am    <DIR>          2014_04_14 - Flower
+24/04/2022  08:44 am    <DIR>          2014_04_14 - I miss U na po!!
+24/04/2022  08:44 am    <DIR>          2014_04_14 - Tulog @ Bed
+24/04/2022  08:44 am    <DIR>          2014_04_15 - Baon Lunch
+24/04/2022  08:44 am    <DIR>          2014_04_15 - FB Chat & I miss U photo
+24/04/2022  08:44 am    <DIR>          2014_04_16 - Baon Lunch n ASM Lab Testing
+24/04/2022  08:44 am    <DIR>          2014_04_16 - Sexy @ BEd
+24/04/2022  08:44 am    <DIR>          2014_04_17 - Mapa ng Kapilya sa AMK
+24/04/2022  08:44 am    <DIR>          2014_04_17 - Nude Shot
+24/04/2022  08:44 am    <DIR>          2014_04_18 - Door ng Blk 734
+24/04/2022  08:44 am    <DIR>          2014_04_18 - Salonpas
+24/04/2022  08:44 am    <DIR>          2014_04_19 - PicPic ng pde mapuntahan
+09/09/2023  03:06 pm    <DIR>          2014_04_19 - Sexy and Dinner in Bed - 734
+24/04/2022  08:45 am    <DIR>          2014_04_19 - Whatsapp Chat
+24/04/2022  08:45 am    <DIR>          2014_04_21 - Tawa and Loving
+09/09/2023  03:10 pm    <DIR>          2014_04_22 - FB Chat
+24/04/2022  08:45 am    <DIR>          2014_04_22 - Timecheck @ ASM Lab
+24/04/2022  08:45 am    <DIR>          2014_04_23 - Michael farewell Party
+24/04/2022  08:45 am    <DIR>          2014_04_25 - Chicha in Bed
+24/04/2022  08:45 am    <DIR>          2014_04_25 - Lunch
+24/04/2022  08:45 am    <DIR>          2014_04_26 - Lunch @ Blk 734
+24/04/2022  08:45 am    <DIR>          2014_04_27 - If there's no Candy in Heaven Im not going
+24/04/2022  08:47 am    <DIR>          2014_04_27 - Loving & Iyak sa Movie
+24/04/2022  08:47 am    <DIR>          2014_04_27 - Sundo KK Hosp then Samba
+24/04/2022  08:47 am    <DIR>          2014_04_28 - Door ng Blk 734
+09/09/2023  02:07 pm    <DIR>          2014_04_29 - Pekpek Shorts
+09/09/2023  02:09 pm    <DIR>          2014_04_30 - FB Chat 'Do U really Love me'
+04/12/2022  11:19 am    <DIR>          2014_04_30 - Kissing sa Bed
+04/12/2022  04:57 pm    <DIR>          2014_05_01 - Just in Bed and MRT Ride
+24/04/2022  08:47 am    <DIR>          2014_05_01 - Orachard and Takashimaya n KitKat
+24/04/2022  08:47 am    <DIR>          2014_05_01 - Report
+24/04/2022  08:47 am    <DIR>          2014_05_02 - ASM Lunch, Table Drawer n Lab Bench n Joke Swimming
+24/04/2022  08:47 am    <DIR>          2014_05_02 - FB Chat
+24/04/2022  08:47 am    <DIR>          2014_05_02 - Loving
+04/12/2022  09:24 pm    <DIR>          2014_05_03 - Loving
+24/04/2022  08:49 am    <DIR>          2014_05_03 - Whatsapp Report
+05/12/2022  10:53 pm    <DIR>          2014_05_04a - Sukat Swimsuit and Sentosa then Loving
+07/11/2022  06:06 am    <DIR>          2014_05_04b - Sentosa
+06/12/2022  06:51 am    <DIR>          2014_05_05 - Morning Loving
+24/04/2022  08:53 am    <DIR>          2014_05_06 - Did not record anything (nothing)
+24/04/2022  08:53 am    <DIR>          2014_05_06 - Dinner Love Note
+06/12/2022  06:52 am    <DIR>          2014_05_07 - Early Dark Loving
+24/04/2022  08:53 am    <DIR>          2014_05_08 - Bukaka sa Bed
+06/12/2022  06:54 am    <DIR>          2014_05_08 - Night Loving
+06/12/2022  07:01 am    <DIR>          2014_05_09 - Buntis and Loving
+24/04/2022  08:58 am    <DIR>          2014_05_09 - Daily Notes
+24/04/2022  08:58 am    <DIR>          2014_05_09 - Testing Buntis and Loving
+24/04/2022  08:58 am    <DIR>          2014_05_10 - Daily Report when Divina in Pinas
+24/04/2022  08:58 am    <DIR>          2014_05_10 - Day 1 Note When Vacation in Philippines
+24/04/2022  08:58 am    <DIR>          2014_05_10 - Day1 note during Bakasyon
+24/04/2022  08:58 am    <DIR>          2014_05_10 - FB Chat
+24/04/2022  08:58 am    <DIR>          2014_05_10 - Time Checks
+24/04/2022  08:58 am    <DIR>          2014_05_11 - Daily Report when Divina in Pinas
+24/04/2022  08:58 am    <DIR>          2014_05_11 - Time Checks
+24/04/2022  08:58 am    <DIR>          2014_05_11 - Vacation sa pinas, reporting for duty
+24/04/2022  08:58 am    <DIR>          2014_05_11 - Whatsapp Tatay Dance Video
+24/04/2022  08:58 am    <DIR>          2014_05_12 - Daily Report when Divina in Pinas
+24/04/2022  08:58 am    <DIR>          2014_05_12 - Dinner Alone & Dropbox
+24/04/2022  08:58 am    <DIR>          2014_05_12 - Time Checks
+24/04/2022  08:58 am    <DIR>          2014_05_13 - Alone sa bahay Blk734
+24/04/2022  08:58 am    <DIR>          2014_05_13 - Whatsapp
+24/04/2022  08:58 am    <DIR>          2014_05_14 - FB Chat
+24/04/2022  08:58 am    <DIR>          2014_05_14 - Time Checks
+24/04/2022  08:58 am    <DIR>          2014_05_15 - Dinner Alone
+24/04/2022  08:58 am    <DIR>          2014_05_15 - FB Chat & Food
+24/04/2022  08:58 am    <DIR>          2014_05_15 - Skype
+24/04/2022  08:58 am    <DIR>          2014_05_21 - Alone Lunch @ Blk734
+24/04/2022  08:58 am    <DIR>          2014_05_21 - FB Chat
+24/04/2022  08:58 am    <DIR>          2014_05_22 - Passport Renewal
+24/04/2022  08:58 am    <DIR>          2014_05_22 - Reporting for Duty
+24/04/2022  08:58 am    <DIR>          2014_05_23 - My Lunch
+24/04/2022  08:58 am    <DIR>          2014_05_25 - Make Up Abay
+24/04/2022  08:58 am    <DIR>          2014_05_27 - FB Chat
+24/04/2022  08:58 am    <DIR>          2014_05_29 - FB Chat
+24/04/2022  08:58 am    <DIR>          2014_05_30 - FB Stat
+24/04/2022  08:58 am    <DIR>          2014_05_31 - My Lunch
+24/04/2022  08:58 am    <DIR>          2014_06_02 - Whatsapp
+24/04/2022  08:58 am    <DIR>          2014_06_02 - Whatsapp Chat
+24/04/2022  08:58 am    <DIR>          2014_06_03 - KK CEO Forum
+24/04/2022  08:58 am    <DIR>          2014_06_04 - True Love Nvr Dies
+24/04/2022  08:58 am    <DIR>          2014_06_05 - Eyesore
+24/04/2022  08:58 am    <DIR>          2014_06_06 - Nood Movie
+24/04/2022  08:58 am    <DIR>          2014_06_08 - Nagluto ng Kaldereta
+24/04/2022  08:58 am    <DIR>          2014_06_13 - KK CEO Forum
+24/04/2022  09:00 am    <DIR>          2014_06_14 - Malaysia
+24/04/2022  09:00 am    <DIR>          2014_06_15 - Malaysia
+24/04/2022  09:00 am    <DIR>          2014_06_16 - Crush
+24/04/2022  09:00 am    <DIR>          2014_06_17 - Bahid sa Bedsheet
+24/04/2022  09:00 am    <DIR>          2014_06_20 - Sa bed lang
+24/04/2022  09:00 am    <DIR>          2014_06_21 - Lying Sexy with Period
+24/04/2022  09:00 am    <DIR>          2014_06_23 - Lying Sexy
+24/04/2022  09:00 am    <DIR>          2014_06_24 - Sexy Higa sa Bed
+24/04/2022  09:00 am    <DIR>          2014_06_24 - Sleeping Sexy
+24/04/2022  09:01 am    <DIR>          2014_06_25 - HK Food Court and Blowjob
+24/04/2022  09:01 am    <DIR>          2014_06_26 - Morning Loving
+24/04/2022  09:01 am    <DIR>          2014_06_27 - Lying Sexy
+24/04/2022  09:03 am    <DIR>          2014_06_28 - Adventure Cove
+24/04/2022  09:03 am    <DIR>          2014_06_28 - Wallpaper
+04/12/2022  02:50 pm    <DIR>          2014_06_29 - Loving
+24/04/2022  09:03 am    <DIR>          2014_06_29 - Movie Theater
+24/04/2022  09:04 am    <DIR>          2014_06_30 - iMovie
+24/04/2022  09:04 am    <DIR>          2014_07_03 - MC MC-han sa Bed
+24/04/2022  09:04 am    <DIR>          2014_07_04 - Umagang Libog
+24/04/2022  09:04 am    <DIR>          2014_07_05 - Manila St
+24/04/2022  09:04 am    <DIR>          2014_07_11 - Happy Bday
+24/04/2022  09:04 am    <DIR>          2014_07_12a - Flower Gift
+24/04/2022  09:05 am    <DIR>          2014_07_12b - Na udlot na Loving
+24/04/2022  09:04 am    <DIR>          2014_07_12c - Me to Airport
+24/04/2022  09:05 am    <DIR>          2014_07_13 - Divina @ INC
+24/04/2022  09:05 am    <DIR>          2014_07_15 - Happy Bday Skype
+24/04/2022  09:05 am    <DIR>          2014_07_15 - Skype
+24/04/2022  09:06 am    <DIR>          2014_07_16 - Hosp and Bacood
+24/04/2022  09:06 am    <DIR>          2014_07_16 - Skype
+24/04/2022  04:26 pm    <DIR>          2014_07_16 - Skype CUM @ Bacood
+24/04/2022  09:06 am    <DIR>          2014_07_17 - Skype
+24/04/2022  09:06 am    <DIR>          2014_07_17 - Skype @ Sta Mesa and Blk734
+09/09/2023  02:38 pm    <DIR>          2014_07_18 - Skype Ligo
+24/04/2022  09:06 am    <DIR>          2014_07_24 - Divina @ Tessensohn
+24/04/2022  09:06 am    <DIR>          2014_07_28 - Welcome Home
+24/04/2022  09:06 am    <DIR>          2014_07_29 - Umagang Libog
+24/04/2022  09:06 am    <DIR>          2014_07_31 - Pepe and Tete
+24/04/2022  09:06 am    <DIR>          2014_08_02 - Weekend Loving
+24/04/2022  09:06 am    <DIR>          2014_08_05 - Lunch Sex
+24/04/2022  09:06 am    <DIR>          2014_08_08 - Nude after Bath
+24/04/2022  09:08 am    <DIR>          2014_08_11 - Lunch Sex
+24/04/2022  09:08 am    <DIR>          2014_08_11 - Nahilik
+24/04/2022  09:08 am    <DIR>          2014_08_30 - Divina @ Airplane Airport
+24/04/2022  09:08 am    <DIR>          2014_08_30 - Our room after she left
+24/04/2022  09:08 am    <DIR>          2014_09_02 - ASM sunset while thinking of you
+24/04/2022  09:08 am    <DIR>          2014_09_03 - Divina Back @ SG @ Lower Selatar
+24/04/2022  09:08 am    <DIR>          2014_09_14 - Missing U
+24/04/2022  04:26 pm    <DIR>          2014_09_19 - Skype Screenshot
+24/04/2022  09:08 am    <DIR>          2014_09_21 - Missing U
+24/04/2022  09:08 am    <DIR>          2014_09_23 - @ Yishun Park
+24/04/2022  09:08 am    <DIR>          2014_10_05 - Missing U in the Bed
+24/04/2022  09:09 am    <DIR>          2014_10_08 - Loving @ Blk734
+24/04/2022  04:26 pm    <DIR>          2014_10_10 - Skype Screenshot
+24/04/2022  09:09 am    <DIR>          2014_10_14 - @ Blk 734
+04/12/2022  05:51 pm    <DIR>          2014_10_14 - Scandal @ Blk734
+24/04/2022  09:11 am    <DIR>          2014_10_20 - Skype
+24/04/2022  09:11 am    <DIR>          2014_10_21 - Skype
+24/04/2022  09:11 am    <DIR>          2014_10_23 - Skype
+24/04/2022  09:11 am    <DIR>          2014_10_23 - Utube Picture Slideshow
+24/04/2022  09:11 am    <DIR>          2014_10_24 - Skype
+24/04/2022  09:11 am    <DIR>          2014_10_27 - Arianne
+24/04/2022  09:11 am    <DIR>          2014_10_27 - Her Type of Man (Badboy Crush)
+24/04/2022  09:11 am    <DIR>          2014_10_27 - Reviewing for Exam
+24/04/2022  09:11 am    <DIR>          2014_10_29 - Skype
+24/04/2022  09:11 am    <DIR>          2014_10_30 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_06 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_06 - Skype Arianne
+24/04/2022  09:11 am    <DIR>          2014_11_07 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_11 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_12 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_13 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_14 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_17 - Request for 22 Jumpstreet
+24/04/2022  09:11 am    <DIR>          2014_11_20 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_20- Skype
+24/04/2022  09:11 am    <DIR>          2014_11_21 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_24 - Geylang
+24/04/2022  09:11 am    <DIR>          2014_11_25 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_25 - Sunset (emote)
+24/04/2022  09:11 am    <DIR>          2014_11_26 - Skype
+24/04/2022  09:11 am    <DIR>          2014_11_27 - My Gift (work in progress)
+24/04/2022  09:11 am    <DIR>          2014_11_27 - Skype
+24/04/2022  09:12 am    <DIR>          2014_12_01 - @ Jacks Place Safra
+24/04/2022  09:12 am    <DIR>          2014_12_02 - KTPH Pinoy Xmas Party & Divine Bday Party
+24/04/2022  09:12 am    <DIR>          2014_12_02 - My Gift
+24/04/2022  09:12 am    <DIR>          2014_12_02 - Selfie @ Tessensohn
+24/04/2022  09:12 am    <DIR>          2014_12_02 - Sunshine (pauwe from Lunchdate @ KTPH, Emote)
+24/04/2022  09:12 am    <DIR>          2014_12_04 - Whatsapp (Her baon)
+24/04/2022  09:12 am    <DIR>          2014_12_05 - Gift @ Upper Selatar
+24/04/2022  09:12 am    <DIR>          2014_12_05 - Whatsapp (Her Baon)
+24/04/2022  09:12 am    <DIR>          2014_12_08 - Meaning of Picture Frame
+24/04/2022  09:12 am    <DIR>          2014_12_09 - Whatsapp
+24/04/2022  09:12 am    <DIR>          2014_12_09 - Whatsapp (baking and Bed n Drawer picpic)
+24/04/2022  09:12 am    <DIR>          2014_12_10 - Skype
+24/04/2022  09:12 am    <DIR>          2014_12_11 - Whatsapp
+24/04/2022  09:12 am    <DIR>          2014_12_11 - Whatsapp (Maulan na Araw)
+24/04/2022  09:12 am    <DIR>          2014_12_12 - Whatsapp
+24/04/2022  09:12 am    <DIR>          2014_12_13 - Selfie @ Tessensohn
+24/04/2022  09:13 am    <DIR>          2014_12_16 - Hotel81
+24/04/2022  09:13 am    <DIR>          2014_12_17 - Lunch Out @ KTPH & White Board for Projector
+24/04/2022  09:13 am    <DIR>          2014_12_17 - Whatsapp @ New Engr
+24/04/2022  09:13 am    <DIR>          2014_12_18 - Chong Pang
+24/04/2022  09:13 am    <DIR>          2014_12_18 - My Drawer (Before and After)
+24/04/2022  09:13 am    <DIR>          2014_12_18 - Whatsapp @ Tessensohn
+24/04/2022  09:13 am    <DIR>          2014_12_19 - Whatsapp Lunch
+24/04/2022  09:13 am    <DIR>          2014_12_20 - After Park Lunch
+24/04/2022  09:13 am    <DIR>          2015_01_05 - Sta Mesa Motel Loving
+24/04/2022  09:14 am    <DIR>          2015_01_06 - Samal House
+24/04/2022  09:14 am    <DIR>          2015_01_12 - Our Flowers
+24/04/2022  09:14 am    <DIR>          2015_01_12 - Wattsapp (selfie nya, miss ko)
+24/04/2022  09:14 am    <DIR>          2015_01_12 - Whatsapp (Tatay n Kuya Naglalagari)
+24/04/2022  09:14 am    <DIR>          2015_01_13 - Skype
+24/04/2022  09:14 am    <DIR>          2015_01_14 - Skype (Naliligo)
+24/04/2022  09:14 am    <DIR>          2015_01_14 - Skype in Bed
+22/02/2023  12:56 pm    <DIR>          2015_01_14 - Whatsapp Video Tease Kagabi (2015-01-13)
+24/04/2022  09:14 am    <DIR>          2015_01_15 - Skype Pinas Ligo
+24/04/2022  09:14 am    <DIR>          2015_01_17 - Dreams
+24/04/2022  09:14 am    <DIR>          2015_01_19 - Whatsapp Departure
+22/02/2023  12:58 pm    <DIR>          2015_01_20 - iloveu tsup tsup
+24/04/2022  09:14 am    <DIR>          2015_01_20 - Kiss u!!
+24/04/2022  09:14 am    <DIR>          2015_01_20 - Skype @ Hospital
+24/04/2022  09:14 am    <DIR>          2015_01_21 - Skype Ligo then Duty @ Hospital
+24/04/2022  09:14 am    <DIR>          2015_01_23 - Skype Ligo
+24/04/2022  09:14 am    <DIR>          2015_01_26 - Loving Lunch @ Tessensohn
+24/04/2022  09:14 am    <DIR>          2015_01_26 - Ukelele whatsapp
+24/04/2022  09:14 am    <DIR>          2015_01_27 - Upper Selatar Sunset
+24/04/2022  09:15 am    <DIR>          2015_01_29 - Sala Blk 734
+24/04/2022  09:15 am    <DIR>          2015_02_01 - Tessensohn then ASM then NorthPoint
+24/04/2022  09:15 am    <DIR>          2015_02_03 - Skype (Papasok & @ Duty)
+24/04/2022  09:15 am    <DIR>          2015_02_04 - skype selfie
+24/04/2022  09:15 am    <DIR>          2015_02_12 - Alone in the Room
+24/04/2022  09:15 am    <DIR>          2015_02_12 - Skype w Ansha
+24/04/2022  09:16 am    <DIR>          2015_02_16 - Skype (Lunch Time)
+24/04/2022  09:16 am    <DIR>          2015_02_17 - Skype (duty)
+24/04/2022  09:16 am    <DIR>          2015_02_17 - Skype (Ligo Time)
+24/04/2022  09:18 am    <DIR>          2015_02_18 - Lunch Loving @ Solo Room @ Tessensohn
+24/04/2022  09:18 am    <DIR>          2015_02_23 - Park Lunch
+24/04/2022  09:18 am    <DIR>          2015_02_24 - Park Ikot Ikot
+24/04/2022  09:18 am    <DIR>          2015_02_25 - KTPH Lunch @ Gazebo
+24/04/2022  09:18 am    <DIR>          2015_02_26 - Skype
+24/04/2022  09:18 am    <DIR>          2015_02_26 - Skype (Bahay Tessensohn)
+24/04/2022  09:18 am    <DIR>          2015_02_26 - Skype (Duty KK Hosp)
+24/04/2022  09:18 am    <DIR>          2015_02_27 - Duty @ KK Hosp
+24/04/2022  09:18 am    <DIR>          2015_02_27 - Sexy & selfie libog
+24/01/2023  02:54 pm    <DIR>          2015_02_28 - Sunset and Best of Me
+01/10/2023  03:41 pm    <DIR>          2015_03_03 - Park Lunch
+24/04/2022  09:19 am    <DIR>          2015_03_05 - Skype (Duty @ KK Hosp)
+24/04/2022  09:19 am    <DIR>          2015_03_06 - Skype (15th @ KK Hosp)
+24/04/2022  09:19 am    <DIR>          2015_03_07 - moving house
+24/04/2022  09:19 am    <DIR>          2015_03_07 - Reporting for Duty
+24/04/2022  09:19 am    <DIR>          2015_03_08 - Reporting for Duty
+24/04/2022  09:19 am    <DIR>          2015_03_10 - @ Park Near ASM
+24/04/2022  01:16 pm    <DIR>          2015_03_10 - Loving @ 86 Whampoa Drive
+24/04/2022  01:16 pm    <DIR>          2015_03_10 - Sunset @ Blk86 Whampoa
+24/04/2022  01:17 pm    <DIR>          2015_03_12 - Skype n Lunch @ KK and Bihis Bago Samba
+24/04/2022  01:17 pm    <DIR>          2015_03_13 - Sunset before going to Park and Skype
+01/10/2023  03:42 pm    <DIR>          2015_03_15 - Changi Village Park and Room and Lunch
+24/04/2022  01:17 pm    <DIR>          2015_03_16 - Skype Bihis and Duty
+24/04/2022  01:17 pm    <DIR>          2015_03_17 - Skype Morning Break
+24/04/2022  01:17 pm    <DIR>          2015_03_18 - Lunch @ KTPH with kissing
+24/04/2022  01:17 pm    <DIR>          2015_03_18 - PekPek_Shorts
+24/04/2022  01:17 pm    <DIR>          2015_03_20 - Im Sorry
+24/04/2022  01:17 pm    <DIR>          2015_03_25 - Whampoa haus
+24/04/2022  01:17 pm    <DIR>          2015_03_30 - 1st Skype after more than a week
+24/04/2022  01:19 pm    <DIR>          2015_03_31 - Blk 734 Last Day Date
+24/04/2022  01:19 pm    <DIR>          2015_04_06 - Happy 16th
+24/04/2022  01:19 pm    <DIR>          2015_04_07 - Skype
+24/04/2022  01:19 pm    <DIR>          2015_04_08 - Skype
+24/04/2022  01:19 pm    <DIR>          2015_04_09 - Our ASM Park in the Morning
+24/04/2022  01:19 pm    <DIR>          2015_04_09 - Skype @ Duty sa Hospital
+24/04/2022  01:20 pm    <DIR>          2015_04_10 - Loving @ Whampoa
+24/04/2022  01:20 pm    <DIR>          2015_04_10 - Skype Bihis Papasok
+24/04/2022  01:20 pm    <DIR>          2015_04_10 - Sunrise Papasok @ Park
+24/04/2022  01:20 pm    <DIR>          2015_04_11 - Alone Sunset @ Blk 736
+24/04/2022  01:20 pm    <DIR>          2015_04_13 - Tampuhan
+24/04/2022  01:20 pm    <DIR>          2015_04_13 - Whatsapp Food n Bus Stop n Report
+24/04/2022  01:20 pm    <DIR>          2015_04_14 - Sunrise @ Yishun & Sunset @ Whampoa (tampuhan)
+24/04/2022  01:20 pm    <DIR>          2015_04_15 - Papasok sa ASM
+24/04/2022  01:20 pm    <DIR>          2015_04_16 - Papasok sa ASM
+24/04/2022  01:20 pm    <DIR>          2015_04_17 - ALONE in YISHUN PARK
+24/04/2022  01:20 pm    <DIR>          2015_04_18 - Alone Sunset @ Blk736 Park
+24/04/2022  01:20 pm    <DIR>          2015_04_19 - Sunset @ Blk 747 Yishun Park
+24/04/2022  01:20 pm    <DIR>          2015_04_20 - Sunrise Papasok
+24/04/2022  01:20 pm    <DIR>          2015_04_21 - Sunrise Papasok
+24/04/2022  01:20 pm    <DIR>          2015_04_22 - Sunrise Papasok
+24/04/2022  01:20 pm    <DIR>          2015_04_22 - Whatsapp FB Chat
+24/04/2022  01:20 pm    <DIR>          2015_04_23 - Sunrise Papasok
+24/04/2022  01:20 pm    <DIR>          2015_04_23 - Whatsapp Food
+24/04/2022  01:20 pm    <DIR>          2015_04_24 - Sunrise Papasok & Skype
+24/04/2022  01:20 pm    <DIR>          2015_04_24 - Whatsapp Food
+24/04/2022  01:20 pm    <DIR>          2015_04_27 - @ Vendo
+24/04/2022  01:20 pm    <DIR>          2015_04_27 - Sunrise Papasok & Skype
+24/04/2022  01:20 pm    <DIR>          2015_04_27 - Whatsapp food and legs
+24/04/2022  01:22 pm    <DIR>          2015_04_28a - Whatsapp taxi and Robotics Jacket
+18/01/2023  07:11 am    <DIR>          2015_04_28b - From Whampoa with Love
+24/04/2022  01:22 pm    <DIR>          2015_04_28c - Skype
+24/04/2022  01:23 pm    <DIR>          2015_04_29a - Morning Park & Morning Skype
+18/01/2023  07:12 am    <DIR>          2015_04_29b - From Whampoa with Love
+24/04/2022  01:23 pm    <DIR>          2015_04_29c - Lasagna ni Divina
+24/04/2022  01:23 pm    <DIR>          2015_04_29d - Whatsapp FB Candy Chat
+24/04/2022  01:23 pm    <DIR>          2015_04_30 - @ the Park
+24/04/2022  01:23 pm    <DIR>          2015_04_30 - Whatsapp Yishum MRT
+24/04/2022  01:23 pm    <DIR>          2015_05_04 - @ Vendo
+24/04/2022  01:24 pm    <DIR>          2015_05_04 - Skype
+24/04/2022  01:24 pm    <DIR>          2015_05_04 - Whatsapp Food
+24/04/2022  01:24 pm    <DIR>          2015_05_05 - @ Gulod ng Park
+24/04/2022  01:24 pm    <DIR>          2015_05_05 - CR
+24/04/2022  01:24 pm    <DIR>          2015_05_05 - Skype
+24/04/2022  01:24 pm    <DIR>          2015_05_05 - Whatsapp (various)
+24/04/2022  01:24 pm    <DIR>          2015_05_06 - Monthsarry
+24/04/2022  01:24 pm    <DIR>          2015_05_06 - Skype Bihis Whampoa
+24/04/2022  01:24 pm    <DIR>          2015_05_07 - Snack @ Park
+24/04/2022  01:24 pm    <DIR>          2015_05_08 - Whatsapp Divina Selfie
+24/04/2022  01:24 pm    <DIR>          2015_05_11 - Lunch @ Park
+24/04/2022  01:24 pm    <DIR>          2015_05_11 - Skype
+24/04/2022  01:24 pm    <DIR>          2015_05_12 - Alone in the Park
+24/04/2022  01:24 pm    <DIR>          2015_05_12 - Whatsapp To hotel
+24/04/2022  01:24 pm    <DIR>          2015_05_13 - Whatsapp utube accnt and Riles photo
+24/04/2022  01:24 pm    <DIR>          2015_05_14 - Scandal ScreenShot
+24/04/2022  01:25 pm    <DIR>          2015_05_15 - Evening @ Hotel
+24/04/2022  01:25 pm    <DIR>          2015_05_15 - Whatsapp food
+24/04/2022  01:26 pm    <DIR>          2015_05_16 - Morning @ Hotel
+24/04/2022  01:26 pm    <DIR>          2015_05_18 - Skype
+24/04/2022  01:26 pm    <DIR>          2015_05_20 - Skype
+24/04/2022  01:26 pm    <DIR>          2015_05_22 - Whatsapp Divina Makeup @ Candy Wedding
+24/04/2022  01:26 pm    <DIR>          2015_05_25 - @ KTPH Emergency
+24/04/2022  01:29 pm    <DIR>          2015_06_02 - Lunch & Dinner @ Value Hotel
+24/04/2022  01:29 pm    <DIR>          2015_06_02 - Whatsapp Hotel Balestier
+24/04/2022  01:29 pm    <DIR>          2015_06_03 - Skype
+24/04/2022  01:30 pm    <DIR>          2015_06_03 - Tea Break @ Value Hotel
+24/04/2022  01:30 pm    <DIR>          2015_06_04 - Skype
+24/04/2022  01:32 pm    <DIR>          2015_06_05 - Breakfast Loving @ Blk 736
+24/04/2022  01:32 pm    <DIR>          2015_06_05 - Whatsapp food
+24/04/2022  01:32 pm    <DIR>          2015_06_08 - Whatsapp napkin
+24/04/2022  01:32 pm    <DIR>          2015_06_09 - Screenshot Skype
+24/04/2022  01:32 pm    <DIR>          2015_06_11 - Whatsapp food and Ferrari Tshirt
+24/04/2022  01:32 pm    <DIR>          2015_06_12 - Whatsapp Pagekite and ASM PCB
+24/04/2022  01:32 pm    <DIR>          2015_06_15 - Whatsapp Finger Cut
+24/04/2022  01:32 pm    <DIR>          2015_06_16 - Whatsapp food and HK Flight
+24/04/2022  01:32 pm    <DIR>          2015_06_17 - Screenshot Skype
+24/04/2022  01:32 pm    <DIR>          2015_06_17 - Whatsapp Food
+24/04/2022  01:32 pm    <DIR>          2015_06_18 - @ Park
+24/04/2022  01:32 pm    <DIR>          2015_06_18 - Whatsapp Napkin
+24/04/2022  01:32 pm    <DIR>          2015_06_19 - Duty sa Hospital
+24/04/2022  01:33 pm    <DIR>          2015_06_22 - Lunch @ Whampoa Drive
+24/04/2022  01:33 pm    <DIR>          2015_06_22 - Whatsapp Nurses Day
+24/04/2022  01:33 pm    <DIR>          2015_06_23 - Screenshot Skype
+24/04/2022  01:33 pm    <DIR>          2015_06_24 - Screenshot Skype
+24/04/2022  01:34 pm    <DIR>          2015_06_27 - Breakfast Loving @ Blk 736
+24/04/2022  01:34 pm    <DIR>          2015_06_28 - China Staff Haus
+24/04/2022  01:34 pm    <DIR>          2015_06_28 - Whatsapp Changi
+24/04/2022  01:34 pm    <DIR>          2015_06_29 - Skype
+24/04/2022  01:34 pm    <DIR>          2015_06_30 - Skype
+24/04/2022  01:34 pm    <DIR>          2015_07_01 - Skype Morning Tease and PM Duty
+24/04/2022  01:34 pm    <DIR>          2015_07_02 - Skype
+24/04/2022  01:34 pm    <DIR>          2015_07_03 - Skype Bihis Papasok
+24/04/2022  01:34 pm    <DIR>          2015_07_03 - Whatsapp Report
+24/04/2022  01:34 pm    <DIR>          2015_07_04 - Skype Bihis Papasok
+24/04/2022  01:34 pm    <DIR>          2015_07_04 - Whatsapp
+24/04/2022  01:34 pm    <DIR>          2015_07_06 - @ Park
+24/04/2022  01:35 pm    <DIR>          2015_07_07 - Lunch @ Whampoa Drive
+24/04/2022  01:35 pm    <DIR>          2015_07_07 - Skype Bihis Papasok
+24/04/2022  01:35 pm    <DIR>          2015_07_07 - Whatsapp Whampoa taxi
+24/04/2022  01:37 pm    <DIR>          2015_07_08 - Lunch @ Whampoa Drive
+24/04/2022  01:37 pm    <DIR>          2015_07_09 - Skype @ Duty sa Hospital
+24/04/2022  01:37 pm    <DIR>          2015_07_09 - Whatsapp Whampoa
+24/04/2022  01:37 pm    <DIR>          2015_07_13 - Whatsapp Divina Kilikili
+24/04/2022  01:39 pm    <DIR>          2015_07_14 - Bday Celebration @ Quality Hotel Marlow
+24/04/2022  01:39 pm    <DIR>          2015_07_15 - ASM Give Aways
+24/04/2022  01:39 pm    <DIR>          2015_07_15 - Bday Lunch @ Park
+24/04/2022  01:39 pm    <DIR>          2015_07_15 - Sjkype @ Whanpo B4 Samba
+24/04/2022  01:39 pm    <DIR>          2015_07_15 - Whatsapp Divina
+24/04/2022  01:39 pm    <DIR>          2015_07_16 - Skype @ Duty sa Hospital
+24/04/2022  01:39 pm    <DIR>          2015_07_20 - ASM Chamber Test and Hallway
+24/04/2022  01:39 pm    <DIR>          2015_07_20 - Lunch @ Park
+24/04/2022  01:39 pm    <DIR>          2015_07_20 - Skype Bihis Papasok
+24/04/2022  01:39 pm    <DIR>          2015_07_20 - Whatsapp Food
+24/04/2022  01:39 pm    <DIR>          2015_07_21 - Play Billiards
+24/04/2022  01:39 pm    <DIR>          2015_07_21 - Skype
+24/04/2022  01:40 pm    <DIR>          2015_07_27 - Lunch @ Whampoa
+24/04/2022  01:41 pm    <DIR>          2015_07_28 - Lunch @ Whampoa
+24/04/2022  01:41 pm    <DIR>          2015_07_28 - Mieryenda
+24/04/2022  01:41 pm    <DIR>          2015_07_28 - Skype Bihis Papasok
+24/04/2022  01:41 pm    <DIR>          2015_07_28 - Whatsapp Divina Kilikili, Whampoa door
+24/04/2022  01:44 pm    <DIR>          2015_07_29 - Lunch @ Whampoa
+24/04/2022  01:44 pm    <DIR>          2015_07_30 - Skype Bihis Papasok
+24/04/2022  01:44 pm    <DIR>          2015_07_30 - Whatsapp Divina Underwear
+24/04/2022  01:44 pm    <DIR>          2015_08_05 - Whatsapp Divina Nursing Board
+24/04/2022  01:44 pm    <DIR>          2015_08_06 - Skype Pag ka uwe then Ligo
+24/04/2022  01:44 pm    <DIR>          2015_08_06 - Whatspp Food
+24/04/2022  01:44 pm    <DIR>          2015_08_12 - Whatspp Food
+24/04/2022  01:44 pm    <DIR>          2015_08_13 - Whatsapp Divina pepe
+24/04/2022  01:44 pm    <DIR>          2015_08_14 - Lunch @ Park
+24/04/2022  01:44 pm    <DIR>          2015_08_14 - Whatsapp Manila flight and food
+24/04/2022  01:44 pm    <DIR>          2015_08_17 - Whatsapp Sarah and Eugene
+24/04/2022  01:44 pm    <DIR>          2015_08_18 - Whatsapp Divina Travel
+24/04/2022  01:44 pm    <DIR>          2015_08_19 - Whatsapp Divina Travel
+24/04/2022  01:44 pm    <DIR>          2015_08_20 - Whatsapp Divina Travel
+24/04/2022  01:44 pm    <DIR>          2015_08_21 - Whatsapp Duty and food
+24/04/2022  01:44 pm    <DIR>          2015_08_25 - Duty sa Hospital
+24/04/2022  01:44 pm    <DIR>          2015_08_25 - Whatsapp Divina pepe
+24/04/2022  01:44 pm    <DIR>          2015_08_26 - Whatsapp food and Leave
+24/04/2022  01:44 pm    <DIR>          2015_08_28 - Bihis Pa duty
+24/04/2022  01:44 pm    <DIR>          2015_08_28 - Lunch @ Park
+24/04/2022  01:44 pm    <DIR>          2015_08_28 - Whatspp Divina nude
+24/04/2022  01:44 pm    <DIR>          2015_08_30 - Sunday Lovenot
+24/04/2022  01:44 pm    <DIR>          2015_09_01 - Kape ng Bali at Vits
+24/04/2022  01:44 pm    <DIR>          2015_09_01 - Whatsapp Sex photo n food
+24/04/2022  01:44 pm    <DIR>          2015_09_02 - Baon Lunch
+24/04/2022  01:44 pm    <DIR>          2015_09_02 - Whatsapp and Hosp
+24/04/2022  01:46 pm    <DIR>          2015_09_03 - Fragrance Hotel
+24/04/2022  01:46 pm    <DIR>          2015_09_03 - Whatsapp to Hotel
+24/04/2022  01:47 pm    <DIR>          2015_09_04 - Fragrance Hotel
+24/04/2022  01:47 pm    <DIR>          2015_09_04 - Skype @ Whampoa
+24/04/2022  01:47 pm    <DIR>          2015_09_04 - Whatsapp Sex hotel
+24/04/2022  01:47 pm    <DIR>          2015_09_14 - Whatsapp Sex hotel
+24/04/2022  01:48 pm    <DIR>          2015_09_15 - Lunch Kiss Kiss then Loving @ Whampoa
+24/04/2022  01:48 pm    <DIR>          2015_09_15 - Whampoa Raining
+24/04/2022  01:48 pm    <DIR>          2015_09_16 - Baon Lunch
+24/04/2022  01:48 pm    <DIR>          2015_09_16 - Skype @ Duty
+24/04/2022  01:48 pm    <DIR>          2015_09_17 - Whatsapp Tigas Titi and Jollibee
+01/03/2023  12:23 am    <DIR>          2015_09_18 - Baon Lunch (Late Lunch)
+24/04/2022  01:49 pm    <DIR>          2015_09_18 - Whatsapp light and Food
+24/04/2022  01:49 pm    <DIR>          2015_09_21 - Whatsapp Taxi Booking
+24/04/2022  01:49 pm    <DIR>          2015_09_22 - Skype @ Duty
+24/04/2022  01:49 pm    <DIR>          2015_09_22 - Skype @ Whampoa Bihis Papasok
+24/04/2022  01:49 pm    <DIR>          2015_09_22 - Whatspp Food
+24/04/2022  01:49 pm    <DIR>          2015_09_25 - Whatsapp youtube videos
+24/04/2022  01:49 pm    <DIR>          2015_10_01 - Whatsapp Food n Travel
+24/04/2022  01:50 pm    <DIR>          2015_10_02 - Lunch @ Blk736
+24/04/2022  01:50 pm    <DIR>          2015_10_04 - Send off at Changi airport
+24/04/2022  01:50 pm    <DIR>          2015_10_04 - Skype Nude Message
+24/04/2022  01:50 pm    <DIR>          2015_10_04 - Whampoa Room
+24/04/2022  01:50 pm    <DIR>          2015_10_05 - Whatsapp Food and Iron
+24/04/2022  01:50 pm    <DIR>          2015_10_07 - Baon Heating @ Hotel
+24/04/2022  01:50 pm    <DIR>          2015_10_07 - Whatsapp Food
+24/04/2022  01:50 pm    <DIR>          2015_10_08 - Skype Bihis Whampoa
+24/04/2022  01:50 pm    <DIR>          2015_10_08 - Skype Whampoa and China
+24/04/2022  01:50 pm    <DIR>          2015_10_09 - Whatsapp Food
+24/04/2022  01:50 pm    <DIR>          2015_10_10 - Kkh DnD
+24/04/2022  01:52 pm    <DIR>          2015_10_10 - Whampoa From China
+24/04/2022  01:52 pm    <DIR>          2015_10_13 - Skype @ KKH Duty
+24/04/2022  01:52 pm    <DIR>          2015_10_13 - Whatsapp Food and Hotel booking
+24/04/2022  01:52 pm    <DIR>          2015_10_14 - Whatsapp Food
+01/03/2023  12:33 am    <DIR>          2015_10_16 - L.O.V.E @ park
+24/04/2022  01:52 pm    <DIR>          2015_10_19 - Whatsapp Food
+24/04/2022  01:52 pm    <DIR>          2015_10_20 - Whatsapp Ford Fierra
+24/04/2022  01:53 pm    <DIR>          2015_10_21 - Lunch @ Blk 736
+24/04/2022  01:53 pm    <DIR>          2015_10_22 - Whatsapp Dbox
+24/04/2022  01:53 pm    <DIR>          2015_10_23 - Whatsapp Salary
+24/04/2022  01:53 pm    <DIR>          2015_10_27 - Whatsapp Food
+24/04/2022  01:53 pm    <DIR>          2015_10_28 - Biskotcho BreakFast
+24/04/2022  01:53 pm    <DIR>          2015_10_28 - Skype @ Duty KK Bago Uwe
+24/04/2022  01:53 pm    <DIR>          2015_10_30 - Late Lunch of Paksiw na Baon
+24/04/2022  01:53 pm    <DIR>          2015_10_30 - Whatsapp Ford Fierra Food and Duty
+24/04/2022  01:53 pm    <DIR>          2015_11_02 - Time Check @ ASM Process lab testing
+24/04/2022  01:53 pm    <DIR>          2015_11_02 - Whatsapp Divina
+24/04/2022  01:53 pm    <DIR>          2015_11_03 - Whatsapp Lababo
+24/04/2022  01:52 pm    <DIR>          2015_11_05 - Dinner Vendo
+24/04/2022  01:53 pm    <DIR>          2015_11_06 - huawei 1st Testing
+24/04/2022  01:54 pm    <DIR>          2015_11_06 - Lunch @ Whampoa
+24/04/2022  01:54 pm    <DIR>          2015_11_06 - photowonder
+24/04/2022  01:55 pm    <DIR>          2015_11_06 - Skype
+24/04/2022  01:55 pm    <DIR>          2015_11_09 - Skype @ Whampoa
+24/04/2022  01:55 pm    <DIR>          2015_11_11 - Presentation Check and Lunch and After
+24/04/2022  01:55 pm    <DIR>          2015_11_11 - Skype @ Whampoa
+24/04/2022  01:55 pm    <DIR>          2015_11_11 - Wefie Beauty Shot daw
+24/04/2022  01:55 pm    <DIR>          2015_11_11 - Whatsapp Fingers
+24/04/2022  01:56 pm    <DIR>          2015_11_12 - Lunch @ B736
+24/04/2022  01:56 pm    <DIR>          2015_11_12 - Skype @ Whampoa then @  KK Duty
+24/04/2022  01:56 pm    <DIR>          2015_11_12 - Whatsapp Sperm stain
+24/04/2022  01:56 pm    <DIR>          2015_11_13 - Skype @ Whampoa
+24/04/2022  01:56 pm    <DIR>          2015_11_13 - Whatsapp Food
+24/04/2022  01:56 pm    <DIR>          2015_11_17 - Skype @ KK Hosp
+24/04/2022  01:56 pm    <DIR>          2015_11_18 - Opis Desk Check
+24/04/2022  01:56 pm    <DIR>          2015_11_19 - Reimbursement and Lunch and Weather Check
+24/04/2022  01:56 pm    <DIR>          2015_11_20 - Skype @ Bus Stop
+24/04/2022  01:57 pm    <DIR>          2015_11_23 - Lunch @ Whampoa
+24/04/2022  01:57 pm    <DIR>          2015_11_24 - Late Lunch Check
+24/04/2022  01:58 pm    <DIR>          2015_11_24 - Skype Bibihis & @ Duty
+24/04/2022  01:58 pm    <DIR>          2015_11_25 - Planner and Table and Remix Check
+24/04/2022  02:00 pm    <DIR>          2015_11_26 - Lunch @ Whampoa
+24/04/2022  02:00 pm    <DIR>          2015_11_26 - Meryenda and Working @ Lab Check
+24/04/2022  02:00 pm    <DIR>          2015_11_26 - Whatsapp msg
+24/04/2022  02:00 pm    <DIR>          2015_11_30 - Weather Check and Time Check
+24/04/2022  02:02 pm    <DIR>          2015_12_01 - Sentosa Siloso Beach Resort
+24/04/2022  02:02 pm    <DIR>          2015_12_02 - Bday highlights
+24/04/2022  02:04 pm    <DIR>          2015_12_02 - Birthday @ Sentosa Play 5 Tour
+24/04/2022  02:06 pm    <DIR>          2015_12_02 - Birthday @ Sentosa Siloso Beach Resort
+24/04/2022  02:06 pm    <DIR>          2015_12_03 - Skype @ KK Hosp
+24/04/2022  02:06 pm    <DIR>          2015_12_04 - Skype Bihis
+24/04/2022  02:06 pm    <DIR>          2015_12_04 - Whampoa Wifi
+24/04/2022  02:06 pm    <DIR>          2015_12_06 - Skype Umaga @ Whampoa
+24/04/2022  02:06 pm    <DIR>          2015_12_07 - Mr N Miss TShirt & Lunch @ Vendo
+24/04/2022  02:06 pm    <DIR>          2015_12_07 - Weight & Park
+24/04/2022  02:06 pm    <DIR>          2015_12_08 - Jhay Marriage
+24/04/2022  02:06 pm    <DIR>          2015_12_09 - Drone
+24/04/2022  02:06 pm    <DIR>          2015_12_09 - Spoons
+24/04/2022  02:06 pm    <DIR>          2015_12_11 - Skype @ Whampoa
+24/04/2022  02:06 pm    <DIR>          2015_12_14 - Lunch Out
+24/04/2022  02:06 pm    <DIR>          2015_12_14 - Skype @ KK Duty
+24/04/2022  02:06 pm    <DIR>          2015_12_15 - Drone @ Lab
+24/04/2022  02:06 pm    <DIR>          2015_12_15 - Lunch Out
+24/04/2022  02:06 pm    <DIR>          2015_12_15 - Palit Camera ng Drone
+24/04/2022  02:06 pm    <DIR>          2015_12_17 - Divina Airport
+24/04/2022  02:06 pm    <DIR>          2015_12_17 - Hatid Erport
+24/04/2022  02:06 pm    <DIR>          2015_12_18 - FB n Lunch n Cabinet Security
+24/04/2022  02:06 pm    <DIR>          2016_01_04 - Skype @ Pinas
+24/04/2022  02:06 pm    <DIR>          2016_01_04 - Unang skype
+24/04/2022  02:06 pm    <DIR>          2016_01_05 - Kasal skype
+24/04/2022  02:06 pm    <DIR>          2016_01_05 - Skype @ Pinas wearing Abay
+24/04/2022  02:06 pm    <DIR>          2016_01_06 - Skype @ Pinas
+24/04/2022  02:06 pm    <DIR>          2016_01_07 - Meeting
+24/04/2022  02:06 pm    <DIR>          2016_01_07 - Skype @ KK Duty
+24/04/2022  02:06 pm    <DIR>          2016_01_08 - @ Park
+24/04/2022  02:06 pm    <DIR>          2016_01_11 - @ Park
+24/04/2022  02:06 pm    <DIR>          2016_01_12 - Wang Yuan Farewell
+24/04/2022  02:06 pm    <DIR>          2016_01_13 - @ Park
+24/04/2022  02:06 pm    <DIR>          2016_01_14 - Lunch, Magic Cup and Pumpkin
+24/04/2022  02:06 pm    <DIR>          2016_01_15 - Fragrance Hotel
+24/04/2022  02:06 pm    <DIR>          2016_01_17 - Skype KK @ Breaktime
+24/04/2022  02:06 pm    <DIR>          2016_01_20 - Baon Lunch & Snack
+24/04/2022  02:06 pm    <DIR>          2016_01_20 - Skype @ KK
+24/04/2022  02:06 pm    <DIR>          2016_01_21 - BF and Snack
+24/04/2022  02:06 pm    <DIR>          2016_01_22 - Bihis Skype
+24/04/2022  02:06 pm    <DIR>          2016_01_22 - Snack & Notebook & Work
+24/04/2022  02:06 pm    <DIR>          2016_01_25 - Bihis Skype
+24/04/2022  02:06 pm    <DIR>          2016_01_25 - Working
+24/04/2022  02:06 pm    <DIR>          2016_01_26 - Papunat Park
+24/04/2022  02:06 pm    <DIR>          2016_01_26 - Whampoa Evening
+24/04/2022  02:06 pm    <DIR>          2016_01_26 - Working and Taxi to Whampoa
+24/04/2022  02:06 pm    <DIR>          2016_01_27 - Papsok Skype
+24/04/2022  02:06 pm    <DIR>          2016_01_27 - Reporting
+24/04/2022  02:06 pm    <DIR>          2016_01_28 - Skype Bihis
+24/04/2022  02:06 pm    <DIR>          2016_01_29 - BF and Taxi to Whampoa
+24/04/2022  02:07 pm    <DIR>          2016_01_29 - Whampoa Lunch and Tease Before Flight
+24/04/2022  02:07 pm    <DIR>          2016_02_01 - @ Park
+24/04/2022  02:07 pm    <DIR>          2016_02_01 - BF
+24/04/2022  02:07 pm    <DIR>          2016_02_02 - Coc, Lunch and Meryenda
+24/04/2022  02:07 pm    <DIR>          2016_02_03 - @ Park
+24/04/2022  02:07 pm    <DIR>          2016_02_04 - Lunch @ HDB & Basket & Kape
+24/04/2022  02:07 pm    <DIR>          2016_02_05 - Lunch @ Blk736
+24/04/2022  02:07 pm    <DIR>          2016_02_05 - Skype Bihis
+24/04/2022  02:07 pm    <DIR>          2016_02_10 - BF Ebs and Snack
+24/04/2022  02:07 pm    <DIR>          2016_02_10 - Papunta Park
+24/04/2022  02:07 pm    <DIR>          2016_02_11 - BF & Das
+24/04/2022  02:07 pm    <DIR>          2016_02_11 - Park
+24/04/2022  02:07 pm    <DIR>          2016_02_12 - BF, Wait bus, Kain Jollibee & Nood Porn
+24/04/2022  02:07 pm    <DIR>          2016_02_12 - Bihis Skype
+24/04/2022  02:09 pm    <DIR>          2016_02_12 - Lunch @ Blk736
+24/04/2022  02:09 pm    <DIR>          2016_02_15 - Jolibee in the Ref & Work
+24/04/2022  02:09 pm    <DIR>          2016_02_16 - BF, Ebs, Snack & Park
+24/04/2022  02:09 pm    <DIR>          2016_02_17 - Going Park & @ Park
+24/04/2022  02:09 pm    <DIR>          2016_02_17 - Morning Meeting and PM Snack
+24/04/2022  02:09 pm    <DIR>          2016_02_18 - @ Whampoa
+24/04/2022  02:10 pm    <DIR>          2016_02_18 - Dinner @ Whampoa
+24/04/2022  02:10 pm    <DIR>          2016_02_19 - @ Blk 289
+24/04/2022  02:10 pm    <DIR>          2016_02_22 - @ Park
+24/04/2022  02:12 pm    <DIR>          2016_02_22 - Lunch@ Whampoa
+24/04/2022  02:12 pm    <DIR>          2016_02_23 - Cake BF & Walk to Park & @ Park
+24/04/2022  02:12 pm    <DIR>          2016_02_24 - Horny
+24/04/2022  02:13 pm    <DIR>          2016_02_25 - Lunch @ Blk736
+24/04/2022  02:13 pm    <DIR>          2016_02_25 - Snack
+24/04/2022  02:15 pm    <DIR>          2016_02_26 - Lunch@ Whampoa
+24/04/2022  02:15 pm    <DIR>          2016_02_26 - Salad Snack
+24/04/2022  02:15 pm    <DIR>          2016_02_29 - Skype @ Whampoa
+24/04/2022  02:15 pm    <DIR>          2016_03_01 - Nood Porn
+24/04/2022  02:15 pm    <DIR>          2016_03_01 - Walk to Park
+24/04/2022  02:15 pm    <DIR>          2016_03_03 - Lunch @ Blk736 @ Baon Scan
+24/04/2022  02:15 pm    <DIR>          2016_03_04 - Lunch @ Blk736 & Kulimlim sa Hapon
+24/04/2022  02:15 pm    <DIR>          2016_03_07 - Dinner @ Park
+24/04/2022  02:15 pm    <DIR>          2016_03_10 - Pabaon lunch
+24/04/2022  02:15 pm    <DIR>          2016_03_10 - Spegete Lunch
+24/04/2022  02:15 pm    <DIR>          2016_03_14 - Lock Up @ Exit and Ebs
+24/04/2022  02:15 pm    <DIR>          2016_03_14 - PR Application and Hotel Boss Booking
+24/04/2022  02:19 pm    <DIR>          2016_03_15 - Hotel Boss
+24/04/2022  02:19 pm    <DIR>          2016_03_16a - Lunch @ Blk736
+24/04/2022  02:19 pm    <DIR>          2016_03_16b - @ Yishun Park
+24/04/2022  02:19 pm    <DIR>          2016_03_16c - Sexy pic @ NP
+24/04/2022  02:19 pm    <DIR>          2016_04_06 - Japan Tour
+24/04/2022  02:19 pm    <DIR>          2016_04_11 - Japan Tour
+24/04/2022  02:19 pm    <DIR>          2016_04_12 - skin allergy
+24/04/2022  02:20 pm    <DIR>          2016_04_14 - Lunch @ Blk736
+24/04/2022  02:20 pm    <DIR>          2016_04_15 - @ Yishun Park
+24/04/2022  02:20 pm    <DIR>          2016_04_15 - LlaoLlao
+24/04/2022  02:21 pm    <DIR>          2016_04_15 - Lunch @ Blk 736
+24/04/2022  02:21 pm    <DIR>          2016_04_19 - Lunch @ Blk 736
+24/04/2022  02:21 pm    <DIR>          2016_04_22 - Jolibee
+24/04/2022  02:21 pm    <DIR>          2016_04_30 - Swimsuit
+24/04/2022  02:21 pm    <DIR>          2016_05_02 - Sperm
+24/04/2022  02:21 pm    <DIR>          2016_05_04 - @ Yishun Park
+24/04/2022  02:21 pm    <DIR>          2016_05_06 - Jolibee
+24/04/2022  02:21 pm    <DIR>          2016_05_16 - @ Bus Stop
+24/04/2022  02:23 pm    <DIR>          2016_05_19 - Hotel Royal
+12/01/2023  07:33 am    <DIR>          2016_05_20 - Hotel Royal
+24/04/2022  02:26 pm    <DIR>          2016_05_23 - Yishun Park, Archery and Swimming
+24/04/2022  02:26 pm    <DIR>          2016_05_25 - Jolibee
+24/04/2022  02:26 pm    <DIR>          2016_06_01 - @ Whampoa
+24/04/2022  02:26 pm    <DIR>          2016_06_06 - @ Bus Stop
+24/04/2022  02:26 pm    <DIR>          2016_06_06 - To Park
+24/04/2022  02:28 pm    <DIR>          2016_06_07 - Before Duty @ Whampoa
+24/04/2022  02:30 pm    <DIR>          2016_06_14 - Lunch @ Blk736
+24/04/2022  02:30 pm    <DIR>          2016_06_21 - @ Yishun Park
+24/04/2022  02:30 pm    <DIR>          2016_06_26 - Javine
+24/04/2022  02:30 pm    <DIR>          2016_06_27 - Breakfast
+24/04/2022  02:30 pm    <DIR>          2016_06_28 - Breakfast
+24/04/2022  02:30 pm    <DIR>          2016_07_01 - Vendo
+24/04/2022  02:32 pm    <DIR>          2016_07_05 - Lunch @ Blk736
+24/04/2022  02:32 pm    <DIR>          2016_07_05 - Pasta Pabaon
+24/04/2022  02:32 pm    <DIR>          2016_07_07 - Ulan @ Whampoa
+24/04/2022  02:32 pm    <DIR>          2016_07_08 - Park
+24/04/2022  02:32 pm    <DIR>          2016_07_11 - Bread BF and Passport Foto
+24/04/2022  02:32 pm    <DIR>          2016_07_12 - Blk 736
+24/04/2022  02:32 pm    <DIR>          2016_07_12 - Ube
+24/04/2022  02:32 pm    <DIR>          2016_07_13 - Lunch
+24/04/2022  02:32 pm    <DIR>          2016_07_13 - To Park
+24/04/2022  02:32 pm    <DIR>          2016_07_14 - Safra Country Club
+24/04/2022  02:32 pm    <DIR>          2016_07_14 - Whatsapp Food
+24/04/2022  02:32 pm    <DIR>          2016_07_15 - Safra Country Club
+24/04/2022  02:32 pm    <DIR>          2016_07_17 - Whatsapp Divina Family
+24/04/2022  02:32 pm    <DIR>          2016_07_18 - Whatsapp Food and SMS
+24/04/2022  02:32 pm    <DIR>          2016_07_19 - Whatsapp Divina in Pinas
+24/04/2022  02:32 pm    <DIR>          2016_07_21 - Whatsapp Divina in Pinas
+24/04/2022  02:32 pm    <DIR>          2016_07_22 - Whatsapp Divina in Pinas
+24/04/2022  02:32 pm    <DIR>          2016_07_25 - Whatsapp Divina in Pinas
+24/04/2022  02:32 pm    <DIR>          2016_07_26 - Lunch @ NP After Flight
+24/04/2022  02:32 pm    <DIR>          2016_07_26 - Whatsapp
+24/04/2022  02:32 pm    <DIR>          2016_07_26 - Whatsapp Divina in Pinas
+24/04/2022  02:32 pm    <DIR>          2016_07_27 - Whatsapp Divina Food in Pinas
+24/04/2022  02:32 pm    <DIR>          2016_07_29 - Whatsapp Food
+24/04/2022  02:32 pm    <DIR>          2016_07_31 - Whatsapp Food
+24/04/2022  02:34 pm    <DIR>          2016_08_01 - Lunch @ Blk736
+24/04/2022  02:34 pm    <DIR>          2016_08_01 - Whatsapp Divina Selfie and Food
+24/04/2022  02:34 pm    <DIR>          2016_08_02 - Whatsapp Divina n Food n Utube
+24/04/2022  02:34 pm    <DIR>          2016_08_03 - Whatsapp Food n Hotel booking
+24/04/2022  02:34 pm    <DIR>          2016_08_04 - Whampoa
+24/04/2022  02:34 pm    <DIR>          2016_08_04 - Whatsapp Whampoa and Food
+24/04/2022  02:34 pm    <DIR>          2016_08_05 - Whatsapp Food
+24/04/2022  02:34 pm    <DIR>          2016_08_08 - Whatsapp Food n Duty n HK Flight
+24/04/2022  02:34 pm    <DIR>          2016_08_10 - HK Hotel Booking
+24/04/2022  02:35 pm    <DIR>          2016_08_10 - Lunch @ Blk736
+24/04/2022  02:35 pm    <DIR>          2016_08_12 - Whatsapp HK prep
+24/04/2022  02:36 pm    <DIR>          2016_08_14 - @ HK Panda Hotel
+01/10/2023  03:06 pm    <DIR>          2016_08_14 - Hello Kitty Date @ Changi
+23/09/2023  10:41 am    <DIR>          2016_08_14 - HongKong
+24/04/2022  02:36 pm    <DIR>          2016_08_14 - Whatsapp HK
+24/04/2022  02:36 pm    <DIR>          2016_08_16 - Whatsapp HK Plane flight
+24/04/2022  02:36 pm    <DIR>          2016_08_18 - Skype @ Whampoa
+24/04/2022  02:36 pm    <DIR>          2016_08_18 - Whatsapp Divina Face Mask
+24/04/2022  02:36 pm    <DIR>          2016_08_19 - Whatsapp Divina KK Hosp
+24/04/2022  02:36 pm    <DIR>          2016_08_20 - Whatsapp HK Travel
+24/04/2022  02:36 pm    <DIR>          2016_08_22 - Lunch @ Blk 736
+24/04/2022  02:36 pm    <DIR>          2016_08_22 - Whatspp Utube Videos
+24/04/2022  02:36 pm    <DIR>          2016_08_23 - Lunch @ Whampoa
+24/04/2022  02:36 pm    <DIR>          2016_08_26 - Whatsapp Whampoa n Food
+24/04/2022  02:36 pm    <DIR>          2016_08_29 - Whatsapp Food
+24/04/2022  02:36 pm    <DIR>          2016_08_31 - Whatsapp Food n Electronics
+24/04/2022  02:36 pm    <DIR>          2016_09_01 - Whatsapp Food
+24/04/2022  02:36 pm    <DIR>          2016_09_05 - IG ID
+24/04/2022  02:36 pm    <DIR>          2016_09_06 - Whatsapp Flight Price
+24/04/2022  02:37 pm    <DIR>          2016_09_07 - Blk 736
+24/04/2022  02:37 pm    <DIR>          2016_09_07 - Whatsapp Whampoa n Allergy
+01/10/2023  03:22 pm    <DIR>          2016_09_08 - Whatsapp Divina n food
+24/04/2022  02:37 pm    <DIR>          2016_09_09 - Whatsapp Divina
+24/04/2022  02:37 pm    <DIR>          2016_09_10 - Whatsapp Divina allergy
+24/04/2022  02:37 pm    <DIR>          2016_09_13 - @ Bukit Gombak
+24/04/2022  02:38 pm    <DIR>          2016_09_13 - Whampoa Lunch
+24/04/2022  02:38 pm    <DIR>          2016_09_14 - Whatsapp
+24/04/2022  02:38 pm    <DIR>          2016_09_16 - Whatsapp Taxi booking
+24/04/2022  02:38 pm    <DIR>          2016_09_19 - Whatsapp Food
+24/04/2022  02:38 pm    <DIR>          2016_09_20 - Whatsapp Food
+24/04/2022  02:40 pm    <DIR>          2016_09_26 - Blk 736
+24/04/2022  02:40 pm    <DIR>          2016_09_26 - Whatsapp Divina Sexy
+24/04/2022  02:40 pm    <DIR>          2016_09_29 - Lunch @ Blk 736
+24/04/2022  02:40 pm    <DIR>          2016_09_29 - Whatsapp Divina Selfie Stick
+24/04/2022  02:40 pm    <DIR>          2016_09_30 - Whatsapp Divina Duty
+24/04/2022  02:40 pm    <DIR>          2016_10_04 - Whatsapp Divina
+24/04/2022  02:40 pm    <DIR>          2016_10_05 - Whatsapp Report @ Blk736
+24/04/2022  02:40 pm    <DIR>          2016_10_07 - Whatsapp Divina n Taxi Booking
+24/04/2022  02:41 pm    <DIR>          2016_10_10 - Whatsapp Divina n FB msg
+24/04/2022  02:43 pm    <DIR>          2016_10_11 - Whampoa Lunch
+24/04/2022  02:43 pm    <DIR>          2016_10_12 - Whatsapp Divina
+24/04/2022  02:43 pm    <DIR>          2016_10_13 - Whatsapp Divina
+24/04/2022  02:43 pm    <DIR>          2016_10_14 - Whatsapp Divina
+24/04/2022  02:43 pm    <DIR>          2016_10_16 - Whatsapp Divina
+24/04/2022  02:44 pm    <DIR>          2016_10_17 - Lunch @ Blk736
+24/04/2022  02:44 pm    <DIR>          2016_10_18 - Whatsapp Whampoa
+24/04/2022  02:44 pm    <DIR>          2016_10_20 - Whatsapp Food n Kapilya
+24/04/2022  02:44 pm    <DIR>          2016_10_25 - Whatsapp Divina
+24/04/2022  02:44 pm    <DIR>          2016_10_26 - Whatsapp Divina
+24/04/2022  02:44 pm    <DIR>          2016_10_27 - Whatsapp Divina
+24/04/2022  02:44 pm    <DIR>          2016_11_04 - Whatsapp Divina
+24/04/2022  02:44 pm    <DIR>          2016_11_08 - Whatsapp Divina
+24/04/2022  02:44 pm    <DIR>          2016_11_11 - Whatsapp Msg
+24/04/2022  02:44 pm    <DIR>          2016_11_14 - Whatsapp Tet Diivna Email
+24/04/2022  02:44 pm    <DIR>          2016_11_18 - Bangbood & Turmeric Tea
+24/04/2022  02:44 pm    <DIR>          2016_11_22 - Whatsapp
+24/04/2022  02:44 pm    <DIR>          2016_11_22 - Whatsapp Divina Sexy
+24/04/2022  02:44 pm    <DIR>          2016_11_23 - My Drawer & EClaim
+24/04/2022  02:44 pm    <DIR>          2016_11_23 - Skype @ Bus
+24/04/2022  02:44 pm    <DIR>          2016_11_23 - Turmetic Tea
+24/04/2022  02:44 pm    <DIR>          2016_11_25 - Lunch Near Church
+24/04/2022  02:44 pm    <DIR>          2016_11_25 - Whatsapp Ginger Tea
+24/04/2022  02:44 pm    <DIR>          2016_11_26 - B4 Mac Ritchie teambuilding
+24/04/2022  02:44 pm    <DIR>          2016_11_28 - Yahoo
+24/04/2022  02:44 pm    <DIR>          2016_12_01 - Drone
+24/04/2022  02:44 pm    <DIR>          2016_12_02 - Bday @ Safra
+24/04/2022  02:44 pm    <DIR>          2016_12_02 - Che2 Email Application
+24/04/2022  02:44 pm    <DIR>          2016_12_05 - Gift
+24/04/2022  02:47 pm    <DIR>          2016_12_05 - OCC
+24/04/2022  02:47 pm    <DIR>          2016_12_05 - Turmeric Tea
+24/04/2022  02:47 pm    <DIR>          2016_12_05 - Whatsapp OCC Sched
+24/04/2022  02:47 pm    <DIR>          2016_12_06 - Anniversarry
+24/04/2022  02:48 pm    <DIR>          2016_12_06 - OCC
+24/04/2022  02:48 pm    <DIR>          2016_12_13 - ICA and Bag
+24/04/2022  02:48 pm    <DIR>          2016_12_14 - Che2
+24/04/2022  02:48 pm    <DIR>          2017_03_20 - Tigas TiTi
+24/04/2022  02:50 pm    <DIR>          2017_03_22 - Hotel Boss
+24/04/2022  02:50 pm    <DIR>          2017_03_29 - @ Park
+24/04/2022  02:52 pm    <DIR>          2017_03_30 - Blk 736
+24/04/2022  02:52 pm    <DIR>          2017_04_05 - @ Park
+24/04/2022  02:52 pm    <DIR>          2017_04_06 - Monthsarry @ OCC
+24/04/2022  02:53 pm    <DIR>          2017_04_17 - Whampoa Lunch
+24/04/2022  02:54 pm    <DIR>          2017_04_18 - Whampoa Lunch
+24/04/2022  02:54 pm    <DIR>          2017_04_25 - Dinner and Bus
+24/04/2022  02:54 pm    <DIR>          2017_05_23 - Selfie w Unan
+24/04/2022  02:54 pm    <DIR>          2017_05_24 - Selfie w Unan
+24/04/2022  02:55 pm    <DIR>          2017_05_26 - Lunch @ Blk 736
+24/04/2022  02:55 pm    <DIR>          2017_05_27 - Market from Blk736
+24/04/2022  02:55 pm    <DIR>          2017_05_28 - Market from Blk736
+24/04/2022  02:56 pm    <DIR>          2017_05_29 - Lunch @ Blk 736
+24/04/2022  02:56 pm    <DIR>          2017_05_29 - Pagete
+24/04/2022  02:56 pm    <DIR>          2017_05_30 - Pagete BF and Lunch
+24/04/2022  02:56 pm    <DIR>          2017_05_31 - Jolibee Lunch
+24/04/2022  02:57 pm    <DIR>          2017_06_05 - Lunch @ Park
+24/04/2022  02:57 pm    <DIR>          2017_06_08 - Skirt Sexy
+24/04/2022  02:57 pm    <DIR>          2017_06_09 - @ Park
+24/04/2022  02:57 pm    <DIR>          2017_07_11 - Regalo and Pabaon
+24/04/2022  02:58 pm    <DIR>          2017_07_14 - Whampoa Lunch
+24/04/2022  03:01 pm    <DIR>          2017_07_24 - OCC
+24/04/2022  03:01 pm    <DIR>          2017_07_25 - Pabaon
+24/04/2022  03:02 pm    <DIR>          2017_07_26 - Whampoa Lunch
+24/04/2022  03:02 pm    <DIR>          2017_08_01 - Lunch at Park
+24/04/2022  03:02 pm    <DIR>          2017_08_01 - Morning Room Video Blk 345
+24/04/2022  03:02 pm    <DIR>          2017_08_04 - Lunch at Park
+24/04/2022  03:02 pm    <DIR>          2017_08_07 - Walk to Park
+24/04/2022  03:03 pm    <DIR>          2017_08_17 - Lunch @ Park
+24/04/2022  03:03 pm    <DIR>          2017_08_22 - Lunch near Church
+24/04/2022  03:03 pm    <DIR>          2017_08_24 - Whampoa Lunch
+24/04/2022  03:03 pm    <DIR>          2017_08_30 - Lunch @ Park
+24/04/2022  03:03 pm    <DIR>          2017_09_04 - Vendo
+24/04/2022  03:03 pm    <DIR>          2017_09_06 - Dinner @ Broadway
+24/04/2022  03:03 pm    <DIR>          2017_09_06 - Nude @ Bathroom
+24/04/2022  03:05 pm    <DIR>          2017_09_08 - Whampoa
+24/04/2022  03:05 pm    <DIR>          2017_09_21 - Lunch @ Park
+24/04/2022  03:07 pm    <DIR>          2017_09_27 - Fragrance Hotel
+24/04/2022  03:08 pm    <DIR>          2017_09_28 - Fragrance Hotel
+24/04/2022  03:08 pm    <DIR>          2017_09_29 - Dinner Near Vendo
+24/04/2022  03:08 pm    <DIR>          2017_10_13 - Lunch @ Park
+24/04/2022  03:08 pm    <DIR>          2017_10_16 - Lunch @ Park
+24/04/2022  03:10 pm    <DIR>          2017_10_17 - Whampoa Lunch
+24/04/2022  03:11 pm    <DIR>          2017_10_23 - Whampoa Lunch
+24/04/2022  03:11 pm    <DIR>          2017_10_27 - Lunch Near Vendo
+24/04/2022  03:11 pm    <DIR>          2017_10_31 - Jolibee Dinner
+24/04/2022  03:11 pm    <DIR>          2017_11_01 - Lunch @ Park
+24/04/2022  03:11 pm    <DIR>          2017_11_08 - Lunch @ Park
+24/04/2022  03:11 pm    <DIR>          2017_11_21 - Lunch Near Vendo
+24/04/2022  03:11 pm    <DIR>          2017_11_23 - @ DBS Marina
+24/04/2022  03:13 pm    <DIR>          2017_11_29 - Studio M
+24/04/2022  03:18 pm    <DIR>          2017_11_30 - Studio M
+24/04/2022  03:18 pm    <DIR>          2017_12_01 - Lunch Near ASM
+24/04/2022  03:19 pm    <DIR>          2017_12_19 - Lunch @ 318A
+24/04/2022  03:21 pm    <DIR>          2017_12_20 - Lunch @ 318A
+24/04/2022  03:21 pm    <DIR>          2017_12_20 - New Huawei Phone
+25/12/2022  05:15 pm    <DIR>          2017_12_21 - Lunch @ Whampoa
+24/04/2022  03:21 pm    <DIR>          2018_01_15 - Lunch @ Vendo
+24/04/2022  03:22 pm    <DIR>          2018_01_24 - Morning @ 318A
+24/04/2022  03:22 pm    <DIR>          2018_01_25 - Morning @ 318A
+24/04/2022  03:22 pm    <DIR>          2018_01_26 - Old Ferrero
+08/10/2023  02:51 pm    <DIR>          2018_01_30 - Lunch @ ASM Park
+24/04/2022  03:23 pm    <DIR>          2018_02_01 - PaBaon
+24/04/2022  03:25 pm    <DIR>          2018_02_02 - 318 Lunch
+24/04/2022  03:26 pm    <DIR>          2018_02_05 - Wahmpoa Lunch
+24/04/2022  03:28 pm    <DIR>          2018_02_08 - Whampoa Lunch
+24/04/2022  03:28 pm    <DIR>          2018_02_12 - Lunch @ Park
+24/04/2022  03:28 pm    <DIR>          2018_02_13 - VC @ KK Duty
+24/04/2022  03:28 pm    <DIR>          2018_02_14 - Dinner @ Park
+24/04/2022  03:28 pm    <DIR>          2018_02_14 - VC @ KK Duty
+24/04/2022  03:28 pm    <DIR>          2018_02_15 - Lunch
+24/04/2022  03:28 pm    <DIR>          2018_02_15 - Snack
+08/10/2023  02:51 pm    <DIR>          2018_02_20 - Drone @ ASM Park
+24/04/2022  03:30 pm    <DIR>          2018_02_21 - 318A Lunch
+24/04/2022  03:30 pm    <DIR>          2018_02_23 - VC @ Whampoa
+24/04/2022  03:30 pm    <DIR>          2018_02_26 - Lunch @ 318A
+24/04/2022  03:30 pm    <DIR>          2018_02_28 - Snack @ ASM
+24/04/2022  03:30 pm    <DIR>          2018_03_02 - Snack @ ASM
+24/04/2022  03:30 pm    <DIR>          2018_03_05 - Das txt
+24/04/2022  03:30 pm    <DIR>          2018_03_12 - VC
+24/04/2022  03:30 pm    <DIR>          2018_03_13 - VC @ Whampoa
+24/04/2022  03:30 pm    <DIR>          2018_03_16 - VC @ Whampoa
+24/04/2022  03:31 pm    <DIR>          2018_03_19 - Lunch 318
+24/04/2022  03:32 pm    <DIR>          2018_03_19 - Morning 318
+24/04/2022  03:33 pm    <DIR>          2018_03_23 - 318 Lunch
+24/04/2022  03:33 pm    <DIR>          2018_03_28 - VC @ Whampoa
+24/04/2022  03:33 pm    <DIR>          2018_03_29 - VC @ Whampoa
+24/04/2022  03:33 pm    <DIR>          2018_04_03 - Loving @ 318A
+24/04/2022  03:33 pm    <DIR>          2018_04_06 - Lunch @ Park den Skype
+24/04/2022  03:33 pm    <DIR>          2018_04_12 - Lunch @ Park
+24/04/2022  03:33 pm    <DIR>          2018_04_17 - Lunch @ Vendo
+24/04/2022  03:33 pm    <DIR>          2018_04_19 - Vendo Dinner
+24/04/2022  03:33 pm    <DIR>          2018_04_23 - Lunch @ Vendo
+24/04/2022  03:33 pm    <DIR>          2018_04_25 - Lunch @ Park
+24/04/2022  03:33 pm    <DIR>          2018_04_25 - VC @ Whampoa
+24/04/2022  03:34 pm    <DIR>          2018_04_30 - Loving @ Whampoa
+24/04/2022  03:34 pm    <DIR>          2018_05_02 - Lunch @ Vendo
+24/04/2022  03:34 pm    <DIR>          2018_05_07 - Lunch @ Park
+24/04/2022  03:34 pm    <DIR>          2018_05_09 - Lunch @ Park
+24/04/2022  03:34 pm    <DIR>          2018_05_10 - Lunch @ Whampoa
+24/04/2022  03:35 pm    <DIR>          2018_05_14 - Lunch @ Whampoa
+24/04/2022  03:35 pm    <DIR>          2018_06_04 - Lunch @ Park
+24/04/2022  03:36 pm    <DIR>          2018_06_11 - Lunch @ Whampoa
+24/04/2022  03:36 pm    <DIR>          2018_06_14 - Lunch @ 318A
+24/04/2022  03:36 pm    <DIR>          2018_06_19 - @ 317 Carpark
+24/04/2022  03:36 pm    <DIR>          2018_06_26 - @ 811 Busstop After Lunch
+24/04/2022  03:37 pm    <DIR>          2018_07_02 - Lunch @ 318A
+24/04/2022  03:37 pm    <DIR>          2018_07_05 - Lunch @ 318A
+24/04/2022  03:38 pm    <DIR>          2018_07_16 - Hotel Sovereign Park
+24/04/2022  03:42 pm    <DIR>          2018_07_16 - Parc Sovereign Hotel
+24/04/2022  03:42 pm    <DIR>          2018_07_19 - 317 CP
+24/04/2022  03:42 pm    <DIR>          2018_07_23 - Skype
+24/04/2022  03:42 pm    <DIR>          2018_07_26 - Skype
+24/04/2022  03:42 pm    <DIR>          2018_07_27 - Skype
+24/04/2022  03:42 pm    <DIR>          2018_07_30 - Skype
+24/04/2022  03:42 pm    <DIR>          2018_07_31 - Skype
+24/04/2022  03:42 pm    <DIR>          2018_08_01 - Skype
+24/04/2022  03:42 pm    <DIR>          2018_08_06 - Lunch @ 318A
+24/04/2022  03:42 pm    <DIR>          2018_11_12 - @ ASM Park
+24/04/2022  03:43 pm    <DIR>          2018_12_03 - Peninsula Hotel
+24/04/2022  03:43 pm    <DIR>          2018_12_18 - @ ASM Park (preggy)
+24/04/2022  03:43 pm    <DIR>          2018_12_19 - @ ASM Park (preggy)
+24/04/2022  03:43 pm    <DIR>          2018_12_20 - @ ASM Park (preggy)
+24/04/2022  03:43 pm    <DIR>          2019_01_10 - Vendo (preggy)
+24/04/2022  03:44 pm    <DIR>          2019_04_06 - Drone @ KTPH
+24/04/2022  03:44 pm    <DIR>          2019_04_10 - Drone @ 317 Car park
+30/09/2023  03:36 pm    <DIR>          2019_04_12 - Dior Birth w Mommy & Daddy  @ Hospital
+24/04/2022  03:44 pm    <DIR>          2019_04_28 - Drone @ 610 PG w Dior & Mommy
+09/09/2023  03:21 pm    <DIR>          2019_08_27 - Divina@Vendo
+30/09/2023  03:34 pm    <DIR>          2019_09_21 -Dior & Mommy @ Condo
+30/09/2023  03:34 pm    <DIR>          2019_09_28 - Ani Selfie
+24/04/2022  03:45 pm    <DIR>          2020_03_29 - Divina @ 610
+24/04/2022  03:46 pm    <DIR>          2020_03_30 - Screenshot
+24/04/2022  03:46 pm    <DIR>          2020_04_17 - Screenshot
+24/04/2022  03:46 pm    <DIR>          2020_05_04 - Screenshot
+24/04/2022  03:46 pm    <DIR>          2020_05_06 - Screenshot
+24/04/2022  03:46 pm    <DIR>          2020_05_29 - Screenshot
+24/04/2022  03:46 pm    <DIR>          2020_07_15 - Bday @ ASM Park
+24/04/2022  03:46 pm    <DIR>          2020_09_21 - Divina @ Vendo
+24/04/2022  03:46 pm    <DIR>          2020_10_12 - @Vendo
+24/04/2022  03:46 pm    <DIR>          2020_10_15 - @Vendo
+09/04/2023  09:51 am    <DIR>          2020_12_03 - Ascott Raffles Hotel
+24/04/2022  03:46 pm    <DIR>          2020_12_24 - Divina@ UpperSeletar
+17/01/2023  10:29 pm    <DIR>          2020_12_29 - OCC Hotel
+23/04/2022  11:39 am    <DIR>          2020_12_30 - BottleLight @ Changi Airport
+17/01/2023  10:29 pm    <DIR>          2020_12_30 - OCC Hotel
+17/01/2023  10:28 pm    <DIR>          2021_02_24 - Pan pacific Service Suites Hotel
+24/04/2022  03:46 pm    <DIR>          2021_02_25 - Botanic Gardens
+06/12/2022  09:55 pm    <DIR>          2021_03_03 - Ani Passport Photo
+24/04/2022  03:46 pm    <DIR>          2021_03_14 - Sembawang Hotspring
+17/01/2023  10:26 pm    <DIR>          2021_07_15 - Capri Hotel
+17/01/2023  10:27 pm    <DIR>          2021_07_16 - Capri Hotel
+24/04/2022  03:46 pm    <DIR>          2021_11_08 - My Rose Gift
+24/04/2022  03:46 pm    <DIR>          2021_12_01 - Ikot2 Emote
+01/10/2023  07:59 pm    <DIR>          2021_12_02 - Hotel Fort Canning
+17/01/2023  10:24 pm    <DIR>          2021_12_03 - Hotel Fort Canning
+24/04/2022  03:46 pm    <DIR>          2021_12_07 - Emote and Selos
+24/04/2022  03:46 pm    <DIR>          2021_12_20 - Off to Sentosa PANAMERICANA Bday marianne
+26/12/2022  10:02 am    <DIR>          2021_12_22 - GreenPark - Jurong Pt - Enabling Village
+24/04/2022  03:47 pm    <DIR>          2021_12_23 - Labrador Park
+24/04/2022  03:47 pm    <DIR>          2021_12_24 - Xmas Eve w Candy
+24/04/2022  03:47 pm    <DIR>          2021_12_28 - Yishun Neighbourhood Park
+24/04/2022  03:47 pm    <DIR>          2021_12_31 - Changi Airport & Collins
+24/04/2022  03:47 pm    <DIR>          2022_01_03 - Greenwalk 315 - Pavilion
+24/04/2022  03:47 pm    <DIR>          2022_01_04 - Jurong Park Chinese Garden
+24/04/2022  03:47 pm    <DIR>          2022_01_05 - ASM CR - Yishun park Pauwe
+24/04/2022  03:47 pm    <DIR>          2022_01_05 - WhatsApp VideoRecord
+24/04/2022  03:47 pm    <DIR>          2022_01_06 - WhatsApp VideoRecord
+24/04/2022  03:48 pm    <DIR>          2022_01_07 - Yishun Blk 613
+24/04/2022  03:48 pm    <DIR>          2022_01_10 - Yishun Blk 612 Playground
+24/04/2022  03:55 pm    <DIR>          2022_01_12 - OCC
+24/04/2022  03:55 pm    <DIR>          2022_01_12 - Oval
+17/01/2023  10:23 pm    <DIR>          2022_01_13 - OCC
+24/04/2022  03:56 pm    <DIR>          2022_01_14 - WhatsApp VideoRecord
+24/04/2022  03:56 pm    <DIR>          2022_01_16 - Yishun Blk 613
+24/04/2022  03:57 pm    <DIR>          2022_01_18 - WhatsApp VideoRecord
+24/04/2022  03:57 pm    <DIR>          2022_01_19 - Yishun Broadway
+24/04/2022  03:57 pm    <DIR>          2022_01_24 - Yishun Blk 613
+24/04/2022  03:57 pm    <DIR>          2022_01_25 - Yishun Blk 612 - Ikot KTPH park
+24/04/2022  03:57 pm    <DIR>          2022_01_26 - KK - BroadwayDinner - Park
+24/04/2022  03:57 pm    <DIR>          2022_01_27 - To Bedok SG BIke - McDo
+24/04/2022  03:59 pm    <DIR>          2022_01_28 - IPcam YishunSala Video
+24/04/2022  03:59 pm    <DIR>          2022_01_28 - WFH - HotSpring - BusIntFood - Blk 612
+24/04/2022  04:00 pm    <DIR>          2022_01_29 - Blk 613
+24/04/2022  04:00 pm    <DIR>          2022_01_30 - Yishun Blk 613 BF
+24/04/2022  04:00 pm    <DIR>          2022_02_01 - Yishun Blk 612 Playground BF
+24/04/2022  04:00 pm    <DIR>          2022_02_04 - Blk 613 Lunch
+24/04/2022  04:00 pm    <DIR>          2022_02_07 - ASM & Blk 611 Sinigang
+24/04/2022  04:00 pm    <DIR>          2022_02_08 - Canberra MRT Dinner
+24/04/2022  04:00 pm    <DIR>          2022_02_09 - Asus Laptop SSD Hardisk
+24/04/2022  04:02 pm    <DIR>          2022_02_10 - Blk 610 AnnualLeave - SlowBake Cafe
+24/04/2022  04:02 pm    <DIR>          2022_02_11 - Blk 613 Lunch
+24/04/2022  04:02 pm    <DIR>          2022_02_14 - LookAlike - OtherHausMovingBoxes
+17/02/2023  12:20 pm    <DIR>          2022_02_16 - Sentosa - Siloso - Sofitel
+09/07/2023  11:59 am    <DIR>          2022_02_17 - Sentosa Sofitel
+24/11/2022  09:56 pm    <DIR>          2022_02_18 - Papasok KK
+19/02/2023  07:26 pm    <DIR>          2022_02_21 - Lunch @ Blk 611
+24/11/2022  09:59 pm    <DIR>          2022_02_23 - Blk 608 Bus stop
+24/11/2022  10:00 pm    <DIR>          2022_02_24 - Blk 316C Greenwalk
+24/11/2022  10:00 pm    <DIR>          2022_02_25 - 318A Sala
+24/11/2022  10:01 pm    <DIR>          2022_02_28 - 318A Sala
+05/01/2023  08:06 pm    <DIR>          2022_02_28 - Blk 318A Raspicam
+24/11/2022  10:01 pm    <DIR>          2022_03_01 - Valentines Gift
+24/11/2022  10:02 pm    <DIR>          2022_03_03 - 318A Greenwalk
+08/05/2022  08:43 pm    <DIR>          2022_03_07 - ASM Kantin - 613 Lunch
+08/05/2022  11:38 pm    <DIR>          2022_03_14 - 611 Morning - 611 PG Afternoon
+08/05/2022  11:39 pm    <DIR>          2022_03_16 - MC -Sugei Wetlands - Yishun Park
+08/05/2022  11:39 pm    <DIR>          2022_03_28 - 613 Lunch
+28/04/2022  07:10 pm    <DIR>          2022_03_31 - Lunch @ 613 then BusStop to NP
+28/04/2022  07:11 pm    <DIR>          2022_04_07 - Lunch @ 610
+28/04/2022  07:26 pm    <DIR>          2022_04_10 - 613 BF
+28/04/2022  07:26 pm    <DIR>          2022_04_11 - Lunch @ 318A
+28/04/2022  07:27 pm    <DIR>          2022_04_12 - Lunch @ Craze
+28/04/2022  07:27 pm    <DIR>          2022_04_14 - Botanic Garden
+28/04/2022  07:28 pm    <DIR>          2022_04_19 - Lunch @ 613
+28/04/2022  07:28 pm    <DIR>          2022_04_20 - Lunch @ 613
+28/04/2022  07:28 pm    <DIR>          2022_04_21 - Lunch @ 613
+28/04/2022  07:28 pm    <DIR>          2022_04_22 - to 316C
+28/04/2022  07:28 pm    <DIR>          2022_04_25 - Lunch @ 318A
+09/05/2022  09:47 pm    <DIR>          2022_04_29 - Holy Cow
+09/05/2022  09:46 pm    <DIR>          2022_05_05a - Divina @ Blk 610
+09/05/2022  09:46 pm    <DIR>          2022_05_05b - Divina @ HomeTeamNS Billiard
+11/05/2022  12:32 pm    <DIR>          2022_05_06 - Lunch @ Blk 613
+11/05/2022  12:33 pm    <DIR>          2022_05_09 - Lunch @ Blk 610
+14/11/2022  08:25 am    <DIR>          2022_09_27 - Divina SGBike
+22/12/2022  12:32 pm    <DIR>          2022_12_20a - Regalo front of door
+22/12/2022  12:46 pm    <DIR>          2022_12_20b - 610 Haus to Selatar Airport
+22/12/2022  12:31 pm    <DIR>          2022_12_20c - OCC
+17/01/2023  09:02 pm    <DIR>          2022_12_21a - OCC
+25/12/2022  04:54 pm    <DIR>          2022_12_21b - Bus to KK and back to ASM
+25/12/2022  04:54 pm    <DIR>          2022_12_21c - Sunset to 316 greenwalk
+22/12/2022  07:52 pm    <DIR>          2022_12_22 - Meditate @ 316C
+25/12/2022  10:53 am    <DIR>          2022_12_23b - Meet at Canberra then 609 then Meditate
+25/12/2022  10:31 am    <DIR>          2022_12_24 - Hatid Anivid @ BusStop
+24/01/2023  12:28 pm    <DIR>          2022_12_25a - Morning Meet @ 611
+24/01/2023  12:30 pm    <DIR>          2022_12_25b - Afternoon Meet @ 611
+24/01/2023  12:35 pm    <DIR>          2022_12_28a - Divina @ Saizeriya (Home TeamNS)
+24/01/2023  12:39 pm    <DIR>          2022_12_28b- Divina @ Seletar Aerospace Park
+24/01/2023  12:36 pm    <DIR>          2022_12_28c- Divina @ ASM Park
+11/01/2023  08:21 pm    <DIR>          2023_01_03 - Emote and Go around Vendo
+11/01/2023  08:23 pm    <DIR>          2023_01_04 - Pulot Basura & Greenwalk PG
+11/01/2023  08:27 pm    <DIR>          2023_01_09c - Motel Rest w Divina
+11/01/2023  08:27 pm    <DIR>          2023_01_09d - Airport w Divina
+11/01/2023  08:27 pm    <DIR>          2023_01_09e - Airplane w Divina
+11/01/2023  08:27 pm    <DIR>          2023_01_10a - Changi Airport
+11/01/2023  08:27 pm    <DIR>          2023_01_10b - Blk 610
+11/01/2023  08:13 pm    <DIR>          2023_01_10c - Bustop & Bus
+11/01/2023  08:14 pm    <DIR>          2023_01_10d - Wisteria Mall Clean nails
+11/01/2023  08:15 pm    <DIR>          2023_01_10e - Bus stop to Greenwalk
+11/01/2023  08:15 pm    <DIR>          2023_01_10f - Basura in the Riser
+16/01/2023  07:10 am    <DIR>          2023_01_11 - B4 going home (edge of Greenwalk to 610)
+06/07/2023  07:48 am    <DIR>          2023_01_15 - Morning Meet @ Blk 610 and Basura
+06/07/2023  07:58 am    <DIR>          2023_01_16a - ASM Kantin for Lunch
+20/07/2023  08:58 pm    <DIR>          2023_01_16b - Sala of Blk 610 and Dior whiteboard
+06/07/2023  07:58 am    <DIR>          2023_01_16c - Loving @ 610
+06/07/2023  07:58 am    <DIR>          2023_01_16d - 610 to Busstop
+06/07/2023  07:59 am    <DIR>          2023_01_16e - Broadway
+06/07/2023  07:59 am    <DIR>          2023_01_16f - Broadway Bus
+06/07/2023  08:03 am    <DIR>          2023_01_17 - Basura Recycle
+06/07/2023  08:03 am    <DIR>          2023_01_18 - Basura Recycle
+06/07/2023  08:03 am    <DIR>          2023_01_19 - Basura Recycle & Clinic
+06/07/2023  12:38 pm    <DIR>          2023_01_20a - 610 & Electric Meter
+06/07/2023  12:38 pm    <DIR>          2023_01_20b - 610 Bus Stop
+06/07/2023  12:47 pm    <DIR>          2023_01_22 - Morning @ 613 & Basura
+06/07/2023  12:51 pm    <DIR>          2023_01_26 - VC Ani
+06/07/2023  12:50 pm    <DIR>          2023_01_26a - @ 610
+06/07/2023  12:51 pm    <DIR>          2023_01_26b - @ SGBike
+06/07/2023  12:50 pm    <DIR>          2023_01_26c - @ NP
+06/07/2023  12:52 pm    <DIR>          2023_01_27a - @ 610
+06/07/2023  12:52 pm    <DIR>          2023_01_27b - @ HolyCow
+06/07/2023  12:56 pm    <DIR>          2023_01_30a - Loving @ 610
+06/07/2023  12:58 pm    <DIR>          2023_01_31a - @ 610
+06/07/2023  12:58 pm    <DIR>          2023_01_31b - Broadway Bakute
+06/07/2023  01:00 pm    <DIR>          2023_02_01 - Gardens by the Bay Avatar
+06/07/2023  01:01 pm    <DIR>          2023_02_05 - Sundo Bus stop to 610
+06/07/2023  01:04 pm    <DIR>          2023_02_06 - @ 610
+06/07/2023  01:07 pm    <DIR>          2023_02_14 - Loving @318A
+11/04/2023  01:35 pm    <DIR>          2023_03_01 - XRecorder w Ani @ Porto
+06/07/2023  11:50 pm    <DIR>          2023_03_31 - Ani @ 318A
+05/07/2023  09:57 pm    <DIR>          2023_04_12 - Ani @ 610
+05/07/2023  10:08 pm    <DIR>          2023_04_13a - Lunch @ 610
+07/07/2023  08:47 am    <DIR>          2023_04_24 - Ani Boso
+08/07/2023  03:23 pm    <DIR>          2023_05_16a - @ Shi Li Fang
+08/07/2023  03:24 pm    <DIR>          2023_05_16b - @ 318A
+08/07/2023  03:20 pm    <DIR>          2023_05_17 - @ 318A from training
+08/07/2023  03:09 pm    <DIR>          2023_05_18a - Morning Loving @ 610
+08/07/2023  03:10 pm    <DIR>          2023_05_18b - @ 318A
+08/07/2023  03:10 pm    <DIR>          2023_05_19 - @ 610 papasok
+08/07/2023  03:10 pm    <DIR>          2023_05_20 - @ 610 after duty
+08/07/2023  12:17 pm    <DIR>          2023_05_22 - Ani @ 613 & McDo
+08/07/2023  12:08 pm    <DIR>          2023_05_24a - Ani @ 610
+08/07/2023  12:08 pm    <DIR>          2023_05_24b - Ani @ Broadway Bakuteh
+08/07/2023  12:06 pm    <DIR>          2023_05_25a - Ani @ Khatib McDo
+08/07/2023  12:06 pm    <DIR>          2023_05_25b - Ani @ 318A
+08/07/2023  11:37 am    <DIR>          2023_05_29 - @ 610
+08/07/2023  11:34 am    <DIR>          2023_05_30a - @ 318A
+08/07/2023  11:34 am    <DIR>          2023_05_30b - @ SS
+08/07/2023  11:24 am    <DIR>          2023_06_01a - @ NP Dinner & Eyeglass
+08/07/2023  11:22 am    <DIR>          2023_06_03 - Papasok to Work (w screencapture)
+08/07/2023  10:41 am    <DIR>          2023_06_06 - Lunch @ 611
+08/07/2023  10:36 am    <DIR>          2023_06_08 - Ani Bakute
+08/07/2023  10:20 am    <DIR>          2023_06_12a - @ 318A
+08/07/2023  10:20 am    <DIR>          2023_06_12b - @ NP
+08/07/2023  10:17 am    <DIR>          2023_06_13a - Ani @ NP
+08/07/2023  10:17 am    <DIR>          2023_06_13b - Ani @ 318A & GW
+08/07/2023  09:27 am    <DIR>          2023_06_15 - Ani FoodGift & Goto NP MonsterCurry
+08/07/2023  09:21 am    <DIR>          2023_06_16 - Ani Ubo @ 610
+05/07/2023  09:45 pm    <DIR>          2023_06_20a - ToastBox NP
+06/09/2023  12:30 am    <DIR>          2023_06_20b - 318A
+05/07/2023  09:46 pm    <DIR>          2023_06_20c - 613 & BusStop
+06/09/2023  12:01 am    <DIR>          2023_06_21a - Lunch @ 318A
+05/07/2023  09:32 pm    <DIR>          2023_06_21b - Dinner @ 610
+05/07/2023  09:32 pm    <DIR>          2023_06_21c - Bustop @ 608
+05/07/2023  09:29 pm    <DIR>          2023_06_22a - Lunch @ 318A
+05/09/2023  08:24 am    <DIR>          2023_06_22b - PM @ 318A
+05/07/2023  09:29 pm    <DIR>          2023_06_22c - Dinner @ NP
+08/07/2023  07:57 am    <DIR>          2023_06_23 - Ani @ 318A
+08/07/2023  07:52 am    <DIR>          2023_06_26a - Lunch @ 318A
+08/07/2023  07:52 am    <DIR>          2023_06_26b - 610 to Novena
+08/07/2023  07:18 am    <DIR>          2023_06_27 - @ 318A & J9
+08/07/2023  06:54 am    <DIR>          2023_07_03 - @ Kopitiam - Monster Curry - Bus Int
+08/07/2023  07:35 am    <DIR>          2023_07_06a - Bakute
+08/07/2023  07:46 am    <DIR>          2023_07_06b - J9 Ice Dessert & Nippon Home
+08/07/2023  07:28 am    <DIR>          2023_07_07a - 318A
+08/07/2023  07:28 am    <DIR>          2023_07_07b - 610 to BusStop
+09/07/2023  09:33 am    <DIR>          2023_07_08 - Uwe from Duty @ 610
+10/07/2023  07:00 am    <DIR>          2023_07_09 - Morning Uwe frm Duty
+11/07/2023  08:22 pm    <DIR>          2023_07_10a - Cook & Lunch @ 318A
+11/07/2023  08:28 pm    <DIR>          2023_07_10b - Nee Soon Park
+23/07/2023  04:02 pm    <DIR>          2023_07_12a - Lunch @ 613
+23/07/2023  04:02 pm    <DIR>          2023_07_12b - PM Snack @ 613 & BusStop
+23/07/2023  04:00 pm    <DIR>          2023_07_14a - IMM
+23/07/2023  04:00 pm    <DIR>          2023_07_14b - 318A & BusStop
+23/07/2023  03:55 pm    <DIR>          2023_07_17a - Cook & Lunch @ 318A
+23/07/2023  03:55 pm    <DIR>          2023_07_17b - J9 to 318A to BusStop
+23/07/2023  03:53 pm    <DIR>          2023_07_19 - Lunch Cooking @ 318A
+23/07/2023  03:51 pm    <DIR>          2023_07_20a - Lunch @ 611
+23/07/2023  03:52 pm    <DIR>          2023_07_20b - PM Snack @ 610 & BusStop
+23/07/2023  03:50 pm    <DIR>          2023_07_21a - Morning 318A
+23/07/2023  03:50 pm    <DIR>          2023_07_21b - Lunch 318A
+05/09/2023  08:23 am    <DIR>          2023_07_21c - Night 318A & BusStop
+27/07/2023  08:11 am    <DIR>          2023_07_25 - Northpoint & 610
+05/09/2023  08:11 am    <DIR>          2023_07_27a - Lunch & Loving @318A
+14/08/2023  08:02 am    <DIR>          2023_07_27b - Pasok Night
+20/08/2023  10:13 am    <DIR>          2023_08_18 - KTPH Hosp ChkIn
+20/08/2023  08:26 am    <DIR>          2023_08_19 - Hosp Discharge
+01/09/2023  05:26 pm    <DIR>          2023_08_25 - Sugat Cleaning by Nanay
+05/09/2023  08:21 am    <DIR>          2023_08_29 - Lunch and Loving @ 318
+07/09/2023  04:33 am    <DIR>          2023_09_04 - NP Value$ to 610
+09/09/2023  06:57 am    <DIR>          2023_09_05a - Linis Sugat @ 610
+06/09/2023  07:52 am    <DIR>          2023_09_05b - ChubbySexy @ 610
+10/09/2023  04:20 pm    <DIR>          2023_09_08 - Linis Sugat
+22/09/2023  12:35 pm    <DIR>          2023_09_18 - 610
+22/09/2023  12:44 pm    <DIR>          2023_09_19a - Lunch Bakute
+22/09/2023  12:52 pm    <DIR>          2023_09_19b - 318A & BusStop
+22/09/2023  12:55 pm    <DIR>          2023_09_20 - Lunch 318A
+24/09/2023  03:15 pm    <DIR>          2023_09_22 - 318A & BusStop
+29/09/2023  07:45 am    <DIR>          2023_09_25a - Lunch @ 610
+29/09/2023  07:45 am    <DIR>          2023_09_25b - NP
+29/09/2023  07:45 am    <DIR>          2023_09_25c - 318A
+29/09/2023  07:46 am    <DIR>          2023_09_27 - Lunch @ 610
+30/09/2023  11:59 am    <DIR>          2023_09_29a - 610 Lunch
+30/09/2023  12:00 pm    <DIR>          2023_09_29b - Subway @ KTPH
+03/10/2023  09:48 pm    <DIR>          2023_10_02 - Lunch @ 610
+07/10/2023  08:50 pm    <DIR>          2023_10_04a - 610
+07/10/2023  08:51 pm    <DIR>          2023_10_04b - SSC
+06/10/2023  06:09 am    <DIR>          2023_10_05 - J9
+11/10/2023  01:10 pm    <DIR>          2023_10_06a - 318A
+11/10/2023  01:10 pm    <DIR>          2023_10_06b - NP ToastBox
+11/10/2023  01:17 pm    <DIR>          2023_10_09a - Lunch @ 318A
+11/10/2023  01:18 pm    <DIR>          2023_10_09b - Dinner @ J9
+14/10/2023  12:49 pm    <DIR>          2023_10_12 - Lunch @ 610
+14/10/2023  05:31 am    <DIR>          2023_10_13 - Lunch & Dinner @ 610 (sleepover)
+18/10/2023  07:58 am    <DIR>          2023_10_16 - Lunch @ 610
+19/10/2023  08:28 pm    <DIR>          2023_10_18a - Lunch @ 610
+19/10/2023  08:28 pm    <DIR>          2023_10_18b - NP & ToastBox
+22/10/2023  09:55 pm    <DIR>          2023_10_19a - Lunch @ 610
+22/10/2023  09:58 pm    <DIR>          2023_10_19b - Dinner @ 318A
+22/10/2023  11:00 pm    <DIR>          2023_10_20a - Bus Int
+22/10/2023  11:01 pm    <DIR>          2023_10_20b - 318A
+23/10/2023  07:50 am                 0 dir.txt
+               1 File(s)              0 bytes
+            1309 Dir(s)  73,183,109,120 bytes free
